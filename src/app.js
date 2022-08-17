@@ -122,3 +122,5 @@ function cart() {
         x.className = "cart";
     }
 }
+
+/*======= Responsive =======*/
