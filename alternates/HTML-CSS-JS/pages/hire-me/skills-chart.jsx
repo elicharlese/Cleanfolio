@@ -11,7 +11,7 @@ import { CategoricalChartOptions } from '../util/types';
 export const PieChart = generateCategoricalChart({
   chartName: 'PieChart',
   GraphicalChild: Pie,
-  validateTooltipEventTypes: ['item'],
+  validateTooltipEventTypes: [ 'item' ],
   defaultTooltipEventType: 'item',
   legendContent: 'children',
   axisComponents: [
@@ -28,4 +28,4 @@ export const PieChart = generateCategoricalChart({
     innerRadius: 0,
     outerRadius: '80%',
   }
-} as CategoricalChartOptions);
+} ,CategoricalChartOptions);
