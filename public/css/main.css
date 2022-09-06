@@ -386,21 +386,31 @@ nav {
 }
 
 /*======== Social Styles ========*/
-.socials {
+/* .socials {
 	margin: 0px 0px 20px 0px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
 	max-width: 800px;
+} */
+
+#socials {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
 .fa-solid {
 	margin: 5px 5px;
+	height: 20px;
+	width: 20px
 }
 
 .fa-brands {
 	margin: 5px 5px;
+	height: 20px;
+	width: 20px
 }
 
 /*======== Footer Section ========*/
