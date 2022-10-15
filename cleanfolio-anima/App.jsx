@@ -28,10 +28,10 @@ function App() {
         <Route path="/financer">
           <Financer {...financerData} />
         </Route>
-        <Route path="/:path(|open-source)">
+        <Route path="/open-source">
           <OpenSource {...openSourceData} />
         </Route>
-        <Route path="/home">
+        <Route path="/:path(|home)">
           <Home {...homeData} />
         </Route>
         <Route path="/dashboard">
@@ -68,7 +68,7 @@ function App() {
           <X3RUPT {...x3RUPTData} />
         </Route>
         <Route path="/ts">
-          <TS {...tSData} />
+          <TS {...tSData} />s
         </Route>
         <Route path="/tdt">
           <TDT {...tDTData} />
@@ -262,7 +262,7 @@ const homeData = {
     spanText1: "Well-Rounded and Highly-Grounded",
     spanText2: <React.Fragment>A self-taught web developer with a passion for e-commerce and blockchain applications. I have a background in Geographic Information Systems, ESRI products and Databases. I have a strong interest in the blockchain space and am currently working on developing a blockchain based e-commerce platform which relies of AWS infrastructures. <br /> <br />I just completed my undergrad at the University of California, Santa Barbara and plan on persuing a certification as a Salesforce Developer and Administrator, with future plans for a Master’s degree in Business (emphasizing in Location Analysis).</React.Fragment>,
     spanText3: "Subscribe to get access",
-    spanText4: <React.Fragment>function snippets() =&gt; {<br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />Est senectus placerat est sem malesuada interdum.  Morbi at aliquam ac nunc adipiscing ut.<br />}</React.Fragment>,
+    // spanText4: <React.Fragment>function snippets() =&gt; {<br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />Est senectus placerat est sem malesuada interdum.  Morbi at aliquam ac nunc adipiscing ut.<br />}</React.Fragment>,
     spanText5: "Snippet of the Day",
     spanText6: "Languages & Developer Experience",
     spanText7: "Web & E-commerce Development",

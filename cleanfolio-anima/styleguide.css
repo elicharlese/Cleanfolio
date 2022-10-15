@@ -1,4 +1,4 @@
-:root { 
+:root {
   --anzac: #deba4e;
   --anzac-2: #deba4e1a;
   --cape-cod: #414141;
@@ -60,7 +60,7 @@
   --white: #ffffff4c;
   --yellow-sunshine: #fcf500;
   --yellow-sunshine-2: #fcf5001a;
- 
+
   --font-size-l: 26px;
   --font-size-m: 22px;
   --font-size-s: 20px;
@@ -68,7 +68,7 @@
   --font-size-xs: 16px;
   --font-size-xxl: 36px;
   --font-size-xxxl: 54px;
- 
+
   --font-family-encode_sans-bold: "Encode Sans-Bold", Helvetica;
   --font-family-encode_sans-regular: "Encode Sans-Regular", Helvetica;
   --font-family-encode_sans-semibold: "Encode Sans-SemiBold", Helvetica;
