@@ -6,7 +6,7 @@ import {
   RalewayBoldWhite20px,
   RalewayBoldWhite36px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 
 
 function Footer(props) {

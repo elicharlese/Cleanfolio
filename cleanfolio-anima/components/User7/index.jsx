@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayNormalCapeCod16px } from "../../styledMixins";
+import { RalewayNormalCapeCod16px } from "../../../styledMixins";
 
 
 function User7(props) {

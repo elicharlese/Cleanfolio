@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayBoldWhite36px, ValignTextMiddle } from "../../styledMixins";
+import { RalewayBoldWhite36px, ValignTextMiddle } from "../../../styledMixins";
 
 
 function DevEnvironment() {

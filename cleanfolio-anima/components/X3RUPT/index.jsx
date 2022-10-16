@@ -14,7 +14,7 @@ import {
   RalewayNormalCapeCod26px,
   RalewayBoldMexicanRed32px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 import "./X3RUPT.css";
 
 function X3RUPT(props) {

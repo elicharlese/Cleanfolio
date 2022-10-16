@@ -7,7 +7,7 @@ import {
   RalewayBoldWhite36px,
   RalewayBoldWhite22px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 
 
 function Products(props) {

@@ -10,7 +10,7 @@ import {
   RalewayNormalCapeCod32px,
   RalewayNormalBlack22px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 import "./OpenSource.css";
 
 function OpenSource(props) {

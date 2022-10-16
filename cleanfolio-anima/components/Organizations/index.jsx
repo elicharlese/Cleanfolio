@@ -9,7 +9,7 @@ import {
   RalewayBoldWhite32px,
   RalewayNormalCapeCod26px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 import "./Organizations.css";
 
 function Organizations(props) {

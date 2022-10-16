@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayBoldWhite36px, RalewayBoldWhite16px, ValignTextMiddle } from "../../styledMixins";
+import { RalewayBoldWhite36px, RalewayBoldWhite16px, ValignTextMiddle } from "../../../styledMixins";
 
 
 function ClassroomContainers(props) {

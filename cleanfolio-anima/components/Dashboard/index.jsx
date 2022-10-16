@@ -24,7 +24,7 @@ import {
   PoppinsMediumCherryPie17px,
   PoppinsRegularNormalMountainMist13p,
   PoppinsBoldWhite15px,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 import "./Dashboard.css";
 
 function Dashboard(props) {

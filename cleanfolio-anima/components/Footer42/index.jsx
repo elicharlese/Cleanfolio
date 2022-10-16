@@ -5,7 +5,7 @@ import {
   RalewayBoldCapeCod20px,
   RalewayBoldWhite20px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 
 
 function Footer42(props) {

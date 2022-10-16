@@ -13,7 +13,7 @@ import {
   RalewayBoldWhite32px,
   RalewayNormalCapeCod26px,
   ValignTextMiddle,
-} from "../../styledMixins";
+} from "../../../styledMixins";
 import "./Blockify.css";
 
 function Blockify(props) {
