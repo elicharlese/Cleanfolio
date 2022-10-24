@@ -17,7 +17,7 @@ import {
   RalewayBoldWhite24px,
   RalewayBoldCapeCod22px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./HireMe.css";
 
 function HireMe(props) {

@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayNormalCapeCod22px, ValignTextMiddle } from "../../../styledMixins";
+import { RalewayNormalCapeCod22px, ValignTextMiddle } from "../../styledMixins";
 
 
 function Row1(props) {

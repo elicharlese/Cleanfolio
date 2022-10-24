@@ -1,7 +1,7 @@
 import React from "react";
 import FooterMenu from "../FooterMenu";
 import styled from "styled-components";
-import { RalewayBoldWhite36px, RalewayBoldWhite20px, ValignTextMiddle } from "../../../styledMixins";
+import { RalewayBoldWhite36px, RalewayBoldWhite20px, ValignTextMiddle } from "../../styledMixins";
 
 
 function Footer3(props) {

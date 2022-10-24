@@ -13,7 +13,7 @@ import {
   RalewayNormalCapeCod26px,
   ValignTextMiddle,
   RalewayBoldAnzac32px,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./Cheers.css";
 
 function Cheers(props) {

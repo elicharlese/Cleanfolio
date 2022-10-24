@@ -1,7 +1,7 @@
 import React from "react";
 import Button3 from "../Button3";
 import styled from "styled-components";
-import { RalewayNormalCapeCod100px, RalewayBoldCapeCod22px } from "../../../styledMixins";
+import { RalewayNormalCapeCod100px, RalewayBoldCapeCod22px } from "../../styledMixins";
 
 
 function HeroInfo3(props) {
