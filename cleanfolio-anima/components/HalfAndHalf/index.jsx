@@ -13,7 +13,7 @@ import {
   RalewayNormalCapeCod26px,
   RalewayBoldDairyCream32px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./HalfAndHalf.css";
 
 function HalfAndHalf(props) {
