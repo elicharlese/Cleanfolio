@@ -1,0 +1,173 @@
+<template>
+  <div class="footer-26">
+    <div class="footer-menu-14 raleway-bold-cape-cod-20px">
+      <img class="cec-logo-12" :src="cecLogo" alt="cec-logo" />
+      <div class="hire-me-42">{{ hireMe }}</div>
+      <div class="github-19">{{ github }}</div>
+      <div class="open-source-29">{{ openSource }}</div>
+      <div class="organizations-19">{{ organizations }}</div>
+      <x-button :children="xButton1Props.children" :className="xButton1Props.className" />
+      <x-button :children="xButton2Props.children" :className="xButton2Props.className" />
+    </div>
+    <div class="flex-row-32">
+      <img class="image-8-13" :src="image8" alt="image 8" />
+      <div class="overlap-group-58">
+        <div class="snippet-of-the-day-21 valign-text-middle raleway-bold-white-36px">{{ snippetOfTheDay }}</div>
+        <div class="flex-row-33">
+          <div class="subscribe-to-get-access-21 valign-text-middle raleway-bold-white-20px">
+            {{ subscribeToGetAccess }}
+          </div>
+          <div class="rectangle-6-13"></div>
+          <div class="rectangle-7-14"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+import xButton from "./xButton";
+export default {
+  name: "xFooter9",
+  components: {
+    xButton,
+  },
+  props: [
+    "cecLogo",
+    "hireMe",
+    "github",
+    "openSource",
+    "organizations",
+    "image8",
+    "snippetOfTheDay",
+    "subscribeToGetAccess",
+    "xButton1Props",
+    "xButton2Props",
+  ],
+};
+</script>
+
+<style lang="sass">
+@import '../../variables'
+
+.footer-26
+  align-items: flex-end
+  background-color: $material-themereferrorerror100
+  border: 1px none
+  display: flex
+  flex-direction: column
+  gap: 33px
+  height: 592px
+  margin-left: 2px
+  padding: 47px 27.1px
+  width: 1512px
+
+.footer-menu-14
+  display: flex
+  height: 233px
+  position: relative
+  width: 1411px
+
+.cec-logo-12
+  height: 120px
+  margin-left: -19269.0px
+  margin-top: -4954px
+  object-fit: cover
+  width: 120px
+
+.hire-me-42
+  height: 23px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 19149.0px
+  margin-top: 192px
+  text-align: center
+  width: 127px
+
+.github-19
+  height: 23px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 31px
+  margin-top: 192px
+  text-align: center
+  width: 121px
+
+.open-source-29
+  height: 23px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 28px
+  margin-top: 191px
+  text-align: center
+  width: 229px
+
+.organizations-19
+  height: 23px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 30px
+  margin-top: 192px
+  text-align: center
+  width: 256px
+
+.flex-row-32
+  align-items: flex-end
+  display: flex
+  gap: 454px
+  margin-right: 7.85px
+  min-width: 1403px
+
+.image-8-13
+  height: 225px
+  object-fit: cover
+  width: 286px
+
+.overlap-group-58
+  align-items: flex-start
+  background-color: $seagull
+  border-radius: 16px
+  display: flex
+  flex-direction: column
+  gap: 21px
+  min-height: 164px
+  padding: 19px 14px
+  width: 663px
+
+.snippet-of-the-day-21
+  align-self: center
+  height: 51px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 1.54px
+  text-align: center
+  width: 367px
+
+.flex-row-33
+  align-items: flex-end
+  display: flex
+  gap: 18px
+  min-width: 620px
+
+.subscribe-to-get-access-21
+  align-self: flex-start
+  height: 49px
+  letter-spacing: 0
+  line-height: normal
+  text-align: center
+  width: 167px
+
+.rectangle-6-13
+  background-color: $material-themereferrorerror100
+  border: 1px none
+  border-radius: 16px
+  height: 33px
+  width: 316px
+
+.rectangle-7-14
+  background-color: $white
+  border: 1px none
+  border-radius: 16px
+  height: 33px
+  width: 101px
+</style>

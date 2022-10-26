@@ -1,0 +1,72 @@
+<template>
+  <div :class="[`blockchain-6`, className || ``]">
+    <img
+      class="tradent-logo5-transparent-2-1"
+      src="https://anima-uploads.s3.amazonaws.com/projects/62fe76f7359e99eee487b330/releases/634ef8f1abca668fdefc42a0/img/tradent-logo5-transparent-2@2x.png"
+      alt="tradent-logo5-transparent 2"
+    />
+    <blockchains-text />
+    <div class="blockchains-tech-1">
+      <ethereum :className="ethereumProps.className" />
+      <bitcoin :bitcoin1="bitcoinProps.bitcoin1" :className="bitcoinProps.className" />
+    </div>
+    <x-button :children="xButtonProps.children" :className="xButtonProps.className" />
+  </div>
+</template>
+
+<script>
+import BlockchainsText from "./BlockchainsText";
+import Ethereum from "./Ethereum";
+import Bitcoin from "./Bitcoin";
+import xButton from "./xButton";
+export default {
+  name: "Blockchain2",
+  components: {
+    BlockchainsText,
+    Ethereum,
+    Bitcoin,
+    xButton,
+  },
+  props: ["className", "ethereumProps", "bitcoinProps", "xButtonProps"],
+};
+</script>
+
+<style lang="sass">
+.blockchain-6,
+.blockchain-6.blockchain-5
+  display: flex
+  flex-direction: column
+  height: 442px
+  margin-left: 451px
+  margin-top: 81px
+  position: relative
+  width: 609px
+
+.tradent-logo5-transparent-2-1
+  height: 120px
+  margin-left: 244px
+  object-fit: cover
+  width: 120px
+
+.blockchains-tech-1
+  display: flex
+  gap: 52.5px
+  height: 45px
+  margin-left: 100px
+  margin-top: 29px
+  position: relative
+  width: 409px
+
+.blockchain-6.blockchain-7,
+.blockchain-6.blockchain-10
+  margin-left: 416px
+  margin-top: 84px
+
+.blockchain-6.blockchain-8
+  margin-left: 80px
+  margin-top: 84px
+
+.blockchain-6.blockchain-9
+  margin-left: 207px
+  margin-top: 71px
+</style>

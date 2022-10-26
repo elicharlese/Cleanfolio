@@ -1,0 +1,82 @@
+<template>
+  <div class="gis-25">
+    <div class="overlap-group1-25">
+      <img
+        class="gis-26"
+        src="https://anima-uploads.s3.amazonaws.com/projects/62fe76f7359e99eee487b330/releases/633e379a38caf9c281884c8d/img/gis@2x.png"
+        alt="GIS"
+      />
+      <div class="flex-col-6">
+        <div class="gis-development valign-text-middle raleway-bold-white-36px">GIS Development</div>
+        <p class="work-with-apex-and-b-3 valign-text-middle raleway-bold-white-16px">
+          Work with APEX and build custom Lightning Web Components.
+        </p>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Gis",
+};
+</script>
+
+<style lang="sass">
+.gis-25,
+.gis-27
+  align-items: flex-start
+  cursor: pointer
+  display: flex
+  min-width: 664px
+  transition: all 0.2s ease
+
+.gis-25:hover,
+.gis-27:hover
+  transform: scale(1.1)
+
+.overlap-group1-25,
+.overlap-group1-26
+  align-items: flex-start
+  background: linear-gradient(180deg, rgb(125, 190, 227) 0%, rgb(36, 18, 106) 100%)
+  border-radius: 16px
+  display: flex
+  gap: 29px
+  height: 160px
+  justify-content: flex-end
+  min-width: 660px
+  padding: 31.7px 21px
+
+.gis-26,
+.gis-28
+  height: 96px
+  width: 96px
+
+.flex-col-6,
+.flex-col-7
+  align-items: flex-start
+  align-self: center
+  display: flex
+  flex-direction: column
+  gap: 11px
+  margin-top: 3.65px
+  min-height: 72px
+  width: 480px
+
+.gis-development,
+.gis-development-1
+  height: 42px
+  letter-spacing: 0
+  line-height: normal
+  margin-left: 28px
+  min-width: 302px
+  text-align: center
+
+.work-with-apex-and-b-3,
+.work-with-apex-and-b-4
+  height: 19px
+  letter-spacing: 0
+  line-height: normal
+  min-width: 480px
+  text-align: center
+</style>
