@@ -1,0 +1,1371 @@
+/* screen - bitcellular */
+
+.bitcellular {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  height: 100vh;
+  left: 0px;
+  margin: 0px;
+  min-height: 5592px;
+  min-width: 1512px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bitcellular .bitcellular-W0yNG8 {
+  background-color: transparent;
+  height: 5592px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.bitcellular .body-m3yj0o {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 5592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1512px;
+}
+
+.bitcellular .footer-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5000px;
+  width: 1512px;
+}
+
+.bitcellular .snippets-elItJa {
+  background-color: transparent;
+  height: 164px;
+  left: 814px;
+  position: absolute;
+  top: 374px;
+  width: 667px;
+}
+
+.bitcellular .snippets-fHzPwN {
+  background-color: var(--mandy);
+  border: 1px none;
+  border-radius: 16px;
+  height: 164px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 663px;
+}
+
+.bitcellular .rectangle-6-fHzPwN {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 316px;
+}
+
+.bitcellular .rectangle-7-fHzPwN {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 101px;
+}
+
+.bitcellular .subscribe-to-get-access-fHzPwN {
+  background-color: transparent;
+  height: 49px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 167px;
+}
+
+.bitcellular .snippet-of-the-day-fHzPwN {
+  background-color: transparent;
+  height: 51px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 367px;
+}
+
+.bitcellular .image-8-elItJa {
+  background-color: transparent;
+  height: 225px;
+  left: 94px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 640px;
+}
+
+.bitcellular .footer-menu-elItJa {
+  background-color: transparent;
+  height: 233px;
+  left: 94px;
+  position: absolute;
+  top: 47px;
+  width: 1391px;
+}
+
+.bitcellular .button-djaFxQ {
+  background-color: transparent;
+  height: 60px;
+  left: 1168px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.bitcellular .button-p5b2S7 {
+  background-color: transparent;
+  height: 60px;
+  left: 878px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.bitcellular .organizations-djaFxQ {
+  background-color: transparent;
+  height: auto;
+  left: 552px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 250px;
+}
+
+.bitcellular .github-djaFxQ {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 118px;
+}
+
+.bitcellular .hire-me-djaFxQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 124px;
+}
+
+.bitcellular .open-source-djaFxQ {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 223px;
+}
+
+.bitcellular .logo-bitcell-djaFxQ {
+  background-color: transparent;
+  height: 120px;
+  left: 602px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.bitcellular .live-developing-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 4021px;
+  width: 1512px;
+}
+
+.bitcellular .button-2-VNL1m9 {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 806px;
+  position: absolute;
+  top: 826px;
+  width: 257px;
+}
+
+.bitcellular .rectangle-2-C6RVmo {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bitcellular .dashboard-C6RVmo {
+  background-color: transparent;
+  color: var(--mandy);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 12.06%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22.06%;
+  width: 73.54%;
+}
+
+.bitcellular .button-VNL1m9 {
+  background-color: transparent;
+  height: 68px;
+  left: 449px;
+  position: absolute;
+  top: 826px;
+  width: 259px;
+}
+
+.bitcellular .rectangle-2-FY58R7 {
+  background-color: var(--mandy);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.bitcellular .learn-how-FY58R7 {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.bitcellular .dev-environment-VNL1m9 {
+  background-color: transparent;
+  height: 720px;
+  left: 156px;
+  position: absolute;
+  top: 40px;
+  width: 1200px;
+}
+
+.bitcellular .livestream-bTey1I {
+  background-color: transparent;
+  height: 720px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.bitcellular .duckly-bTey1I {
+  background-color: transparent;
+  height: 170px;
+  left: 426px;
+  position: absolute;
+  top: 266px;
+  width: 349px;
+}
+
+.bitcellular .flying-duck-Vf9i6t {
+  background-color: transparent;
+  height: 96px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 74px;
+  width: 96px;
+}
+
+.bitcellular .duckly-environment-Vf9i6t {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.bitcellular .team-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 3039px;
+  width: 1512px;
+}
+
+.bitcellular .avatars-9GxArN {
+  background-color: transparent;
+  height: 550px;
+  left: 25px;
+  position: absolute;
+  top: 282px;
+  width: 1459px;
+}
+
+.bitcellular .user_7-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 1309px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-2-XmAxHo {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-XmAxHo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-XmAxHo {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_6-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 1159px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-1-WwFHPu {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-WwFHPu {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-WwFHPu {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_5-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 974px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-5-qjZxhV {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-qjZxhV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-qjZxhV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_4-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 731px;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-4-HGVw31 {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-HGVw31 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-HGVw31 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_3-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 451px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-3-VpVNuo {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-VpVNuo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-VpVNuo {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_2-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 228px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-2-LVfPmV {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-LVfPmV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-LVfPmV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .user_1-xjB86x {
+  background-color: transparent;
+  height: 201px;
+  left: 0px;
+  position: absolute;
+  top: 349px;
+  width: 154px;
+}
+
+.bitcellular .ellipse-1-g4VksV {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.bitcellular .githubcom0x0000-g4VksV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.bitcellular .username_1-g4VksV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.bitcellular .become-a-contributor-9GxArN {
+  background-color: transparent;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.bitcellular .span0-3kMHLX {
+}
+
+.bitcellular .span1-3kMHLX {
+  color: var(--mandy);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bitcellular .vector-9GxArN {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 482px;
+  width: 1512px;
+}
+
+.bitcellular .tools-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2057px;
+  width: 1512px;
+}
+
+.bitcellular .menus-RGzzFA {
+  background-color: transparent;
+  height: 672px;
+  left: 71px;
+  position: absolute;
+  top: 247px;
+  width: 1373px;
+}
+
+.bitcellular .faq-gqtJy9 {
+  background-color: transparent;
+  height: 117px;
+  left: 4px;
+  position: absolute;
+  top: 555px;
+  width: 1371px;
+}
+
+.bitcellular .faq-A0fx5C {
+  background-color: var(--mandy-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.bitcellular .fa-qs-A0fx5C {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.bitcellular .read-me-gqtJy9 {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 370px;
+  width: 1371px;
+}
+
+.bitcellular .packages-uk4Krm {
+  background-color: var(--mandy-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.bitcellular .readmemd-uk4Krm {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.bitcellular .packages-gqtJy9 {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 185px;
+  width: 1371px;
+}
+
+.bitcellular .packages-4lR1Js {
+  background-color: var(--mandy-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.bitcellular .packages-5wAl9X {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.bitcellular .gitbook-gqtJy9 {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 1371px;
+}
+
+.bitcellular .gitbook-euHIxH {
+  background-color: var(--mandy-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.bitcellular .gitbook-0PXl8B {
+  background-color: transparent;
+  height: 106px;
+  left: 474px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 426px;
+}
+
+.bitcellular .expand-for-more-information-RGzzFA {
+  background-color: transparent;
+  height: 109px;
+  left: 237px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 1042px;
+}
+
+.bitcellular .products-CXGzv6 {
+  background-color: var(--mandy);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1075px;
+  width: 1512px;
+}
+
+.bitcellular .downloads-t7cGBM {
+  background-color: transparent;
+  height: 444px;
+  left: 61px;
+  position: absolute;
+  top: 503px;
+  width: 1392px;
+}
+
+.bitcellular .car-application-xK66cz {
+  background-color: transparent;
+  height: 105px;
+  left: 50px;
+  position: absolute;
+  top: 339px;
+  width: 1051px;
+}
+
+.bitcellular .soon-to-be-car-application-YpplhZ {
+  background-color: transparent;
+  height: 46px;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 879px;
+}
+
+.bitcellular .car-top-view-YpplhZ {
+  background-color: transparent;
+  height: 105px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.bitcellular .downloads-xK66cz {
+  background-color: transparent;
+  border: 1px none;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 128px;
+  width: 1390px;
+}
+
+.bitcellular .mac-client-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .windows-client-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 17.19%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .app-symbol-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 34.38%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .playstore-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 51.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .apple-watch-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 68.75%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .command-line-dKEMqE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 85.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.bitcellular .platforms-available-for-download-xK66cz {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 866px;
+}
+
+.bitcellular .product-management-t7cGBM {
+  background-color: transparent;
+  height: 336px;
+  left: 86px;
+  position: absolute;
+  top: 68px;
+  width: 1346px;
+}
+
+.bitcellular .lorem-ipsum-dolor-si-h8xWSi {
+  background-color: transparent;
+  height: 97px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 1340px;
+}
+
+.bitcellular .learn-more-h8xWSi {
+  background-color: transparent;
+  height: 24px;
+  left: 610px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 312px;
+  width: 120px;
+}
+
+.bitcellular .product-management-h8xWSi {
+  background-color: transparent;
+  height: auto;
+  left: 214px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1042px;
+}
+
+.bitcellular .kanban-h8xWSi {
+  background-color: transparent;
+  height: 89px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 96px;
+}
+
+.bitcellular .hero-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 93px;
+  width: 1512px;
+}
+
+.bitcellular .button-2-dk85gq {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 386px;
+  position: absolute;
+  top: 539px;
+  width: 257px;
+}
+
+.bitcellular .rectangle-2-x91KYq {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bitcellular .dashboard-x91KYq {
+  background-color: transparent;
+  color: var(--mandy);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 10.12%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22.06%;
+  width: 77.04%;
+}
+
+.bitcellular .button-dk85gq {
+  background-color: transparent;
+  height: 68px;
+  left: 97px;
+  position: absolute;
+  top: 539px;
+  width: 259px;
+}
+
+.bitcellular .rectangle-2-wX0Qkg {
+  background-color: var(--mandy);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.bitcellular .contribute-wX0Qkg {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.bitcellular .bitcellular-dk85gq {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  width: auto;
+}
+
+.bitcellular .this-web-30-applicat-dk85gq {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  width: 570px;
+}
+
+.bitcellular .logo-bitcell-dk85gq {
+  background-color: transparent;
+  height: 982px;
+  left: 886px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 626px;
+}
+
+.bitcellular .navbar-CXGzv6 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.bitcellular .button-wallet-IytxM1 {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1333px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.bitcellular .hero-button-eTaZBT {
+  background-color: var(--mandy);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bitcellular .hero-button-U8HLUW {
+  background-color: transparent;
+  height: 56.00%;
+  left: 15.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 69.50%;
+}
+
+.bitcellular .button-login-IytxM1 {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1164px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.bitcellular .hero-button-VFKP2r {
+  background-color: var(--mandy);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bitcellular .hero-button-2GnON3 {
+  background-color: transparent;
+  height: 56.00%;
+  left: 25.50%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 49.00%;
+}
+
+.bitcellular .organizations-IytxM1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.bitcellular .github-IytxM1 {
+  background-color: transparent;
+  height: auto;
+  left: 722px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.bitcellular .hire-me-IytxM1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.bitcellular .open-source-IytxM1 {
+  background-color: transparent;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.bitcellular .dashboard-layout-IytxM1 {
+  background-color: transparent;
+  height: 60px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 60px;
+}

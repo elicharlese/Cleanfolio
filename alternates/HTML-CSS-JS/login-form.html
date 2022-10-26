@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/login-form.css" />
+    <link
+      href="https://animaapp.s3.amazonaws.com/widgets/vendors/624efa35aaee3d33e70be415/vendors.css"
+      rel="stylesheet"
+    />
+    <script src="https://animaapp.s3.amazonaws.com/widgets/vendors/624efa35aaee3d33e70be415/vendors.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <script>
+      window.globalTheme = {
+        palette: {
+          primary: {
+            main: "#7dbee3",
+          },
+          secondary: {
+            main: "#9c27b0",
+          },
+          error: {
+            main: "#d32f2f",
+          },
+          warning: {
+            main: "#ed6c02",
+          },
+          info: {
+            main: "#0288d1",
+          },
+          success: {
+            main: "#2e7d32",
+          },
+          text: {
+            primary: "rgba(0, 0, 0, 0.87)",
+          },
+        },
+        typography: {
+          fontSize: 14,
+        },
+        shape: {
+          borderRadius: 4,
+        },
+      };
+    </script>
+    <input type="hidden" id="anPageName" name="page" value="login-form" />
+    <div class="login-form screen">
+      <div class="login-form-XDhp0Z">
+        <script>
+          // prettier-ignore
+          (function(run, require) {
+          var exports = {}
+
+          run(
+            {"maxWidth":"250px","rememberMe":true,"color":"#7dbee3","hoverColor":"#24126A","usernamePlaceholder":"Username","passwordPlaceholder":"Password","alert":"Please fill username & password","id":"624efc9f877654666867fe06","widgetName":"Login Form","widgetCategory":"624efa35aaee3d33e70be415","widgetCategoryName":"Ant Design","source_type":"react","custom_css":".login-form-XDhp0Z { font-family: \"-apple-system\",\"BlinkMacSystemFont\",\"Segoe UI\",\"Roboto\",\"Helvetica Neue\",\"Arial\",\"sans-serif\",\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";}","useFigmaLayers":false,"version":1,"storyCode":"<Antd.Form\r\n\t\t\tname=\"normal_login\"\r\n\t\t\tclassName=\"login-form\"\r\n\t\t\tinitialValues={{\r\n\t\t\t\tremember: true,\r\n\t\t\t}}\r\n\t\t\tstyle={{\r\n\t\t\t\tmaxWidth: \"250px\",\r\n\t\t\t\t\"--ant-primary-color\": \"#7dbee3\",\r\n\t\t\t\t\"--ant-primary-color-hover\": \"#24126A\",\r\n\t\t\t}}\r\n\t\t\t>\r\n\t\t\t<Antd.Form.Item\r\n\t\t\t\tname=\"username\"\r\n\t\t\t\trules={[\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\trequired: true,\r\n\t\t\t\t\t\tmessage: \"Please fill username & password\",\r\n\t\t\t\t\t},\r\n\t\t\t\t]}\r\n\t\t\t\t>\r\n\t\t\t\t<Antd.Input\r\n\t\t\t\t\tplaceholder=\"Username\"\r\n\t\t\t\t\tprefix={<AntDesignIcons.UserOutlined className=\"site-form-item-icon\" />}\r\n\t\t\t\t\t/>\r\n\t\t\t\t\t</Antd.Form.Item>\r\n\t\t\t\t\t<Antd.Form.Item\r\n\t\t\t\t\t\tname=\"password\"\r\n\t\t\t\t\t\trules={[\r\n\t\t\t\t\t\t\t{\r\n\t\t\t\t\t\t\t\trequired: true,\r\n\t\t\t\t\t\t\t\tmessage: \"Please fill username & password\",\r\n\t\t\t\t\t\t\t},\r\n\t\t\t\t\t\t]}\r\n\t\t\t\t\t\t>\r\n\t\t\t\t\t\t<Antd.Input\r\n\t\t\t\t\t\t\ttype=\"password\"\r\n\t\t\t\t\t\t\tplaceholder=\"Password\"\r\n\t\t\t\t\t\t\tprefix={<AntDesignIcons.LockOutlined className=\"site-form-item-icon\" />}\r\n\t\t\t\t\t\t\t/>\r\n\t\t\t\t\t\t\t</Antd.Form.Item>\r\n\t\t\t\t\t\t\t<Antd.Form.Item>\r\n\t\t\t\t\t\t\t\t<Antd.Form.Item noStyle name=\"remember\" valuePropName=\"checked\">\r\n\t\t\t\t\t\t\t\t\t<Antd.Checkbox>Remember me</Antd.Checkbox>\r\n\t\t\t\t\t\t\t\t</Antd.Form.Item>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<a\r\n\t\t\t\t\t\t\t\t\thref=\"javascript:void(0)\"\r\n\t\t\t\t\t\t\t\t\tstyle={{ float: \"right\" }}\r\n\t\t\t\t\t\t\t\t\tclassName=\"login-form-forgot\"\r\n\t\t\t\t\t\t\t\t\t>\r\n\t\t\t\t\t\t\t\t\tForgot password\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t</Antd.Form.Item>\r\n\t\t\t\t\t\t\t<Antd.Form.Item>\r\n\t\t\t\t\t\t\t\t<Antd.Button\r\n\t\t\t\t\t\t\t\t\ttype=\"primary\"\r\n\t\t\t\t\t\t\t\t\thtmlType=\"submit\"\r\n\t\t\t\t\t\t\t\t\tstyle={{ width: \"100%\" }}\r\n\t\t\t\t\t\t\t\t\tclassName=\"login-form-button\"\r\n\t\t\t\t\t\t\t\t\t>\r\n\t\t\t\t\t\t\t\t\tLog in\r\n\t\t\t\t\t\t\t\t</Antd.Button>\r\n\t\t\t\t\t\t\t\tOr <a href=\"javascript:void(0)\">register now!</a>\r\n\t\t\t\t\t\t\t</Antd.Form.Item>\r\n\t\t\t\t\t\t\t</Antd.Form>","variableDeclarationCode":"","defaultTheme":{"primary":"#6200ee","secondary":"#018786","background":"#fff","surface":"#fff","error":"#b00020","onPrimary":"#fff","onSecondary":"#fff","onSurface":"#000","onError":"#fff"}},
+            exports,
+            { exports: exports },
+            function require(name) {
+              if(typeof __anima_widget_modules === 'object') {
+                for(const module of __anima_widget_modules) {
+                  if(module.id === "624efa35aaee3d33e70be415" && module.name === name) {
+                    return module.exports
+                  }
+                }
+              }
+
+              // Turn module names into capitalized variable names:
+              // react => React
+              // react-dom => ReactDom
+              name = name
+                  .replace(/(^|\/|-)(\S)/g, (s) => s.toUpperCase())
+                  .replace("@", "")
+                  .replace("/", "")
+                  .replace("-", "")
+              name = name.charAt(0).toUpperCase() + name.slice(1)
+
+              if(window[name]) {
+                return window[name]
+              } else {
+                throw new Error('Module not found: ' + name)
+              }
+            }
+          )
+      })(
+          function run(__anima_params__, exports, module, require) {
+              "use strict";
+
+var _react = _interopRequireDefault(require("react"));
+
+var _reactDom = _interopRequireDefault(require("react-dom"));
+
+var AntDesignIcons = _interopRequireWildcard(require("@ant-design/icons"));
+
+var Antd = _interopRequireWildcard(require("antd"));
+
+function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function (nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
+
+function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || typeof obj !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+const Main = args => {
+  return /*#__PURE__*/_react.default.createElement(Antd.Form, {
+    name: "normal_login",
+    className: "login-form",
+    initialValues: {
+      remember: true
+    },
+    style: {
+      maxWidth: "250px",
+      "--ant-primary-color": "#7dbee3",
+      "--ant-primary-color-hover": "#24126A"
+    }
+  }, /*#__PURE__*/_react.default.createElement(Antd.Form.Item, {
+    name: "username",
+    rules: [{
+      required: true,
+      message: "Please fill username & password"
+    }]
+  }, /*#__PURE__*/_react.default.createElement(Antd.Input, {
+    placeholder: "Username",
+    prefix: /*#__PURE__*/_react.default.createElement(AntDesignIcons.UserOutlined, {
+      className: "site-form-item-icon"
+    })
+  })), /*#__PURE__*/_react.default.createElement(Antd.Form.Item, {
+    name: "password",
+    rules: [{
+      required: true,
+      message: "Please fill username & password"
+    }]
+  }, /*#__PURE__*/_react.default.createElement(Antd.Input, {
+    type: "password",
+    placeholder: "Password",
+    prefix: /*#__PURE__*/_react.default.createElement(AntDesignIcons.LockOutlined, {
+      className: "site-form-item-icon"
+    })
+  })), /*#__PURE__*/_react.default.createElement(Antd.Form.Item, null, /*#__PURE__*/_react.default.createElement(Antd.Form.Item, {
+    noStyle: true,
+    name: "remember",
+    valuePropName: "checked"
+  }, /*#__PURE__*/_react.default.createElement(Antd.Checkbox, null, "Remember me")), /*#__PURE__*/_react.default.createElement("a", {
+    href: "javascript:void(0)",
+    style: {
+      float: "right"
+    },
+    className: "login-form-forgot"
+  }, "Forgot password")), /*#__PURE__*/_react.default.createElement(Antd.Form.Item, null, /*#__PURE__*/_react.default.createElement(Antd.Button, {
+    type: "primary",
+    htmlType: "submit",
+    style: {
+      width: "100%"
+    },
+    className: "login-form-button"
+  }, "Log in"), "Or ", /*#__PURE__*/_react.default.createElement("a", {
+    href: "javascript:void(0)"
+  }, "register now!")));
+};
+
+const args = __anima_params__;
+
+_reactDom.default.render( /*#__PURE__*/_react.default.createElement(Main, args), document.querySelector(".login-form-XDhp0Z"));
+          }
+      )
+        </script>
+      </div>
+    </div>
+  </body>
+</html>

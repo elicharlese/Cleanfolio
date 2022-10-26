@@ -1,0 +1,1081 @@
+/* screen - financer */
+
+.financer {
+  align-items: flex-start;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 100vh;
+  left: 0px;
+  margin: 0px;
+  min-height: 4674px;
+  min-width: 1512px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.financer .body-xGpf7v {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 4674px;
+  min-width: 1512px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.financer .footer-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 4082px;
+  width: 1512px;
+}
+
+.financer .footer-menu-978qLn {
+  background-color: transparent;
+  height: 233px;
+  left: 74px;
+  position: absolute;
+  top: 47px;
+  width: 1411px;
+}
+
+.financer .button-stLL3v {
+  background-color: transparent;
+  border: 1px none;
+  height: 60px;
+  left: 1188px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.financer .rectangle-2-uLEPiC {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 215px;
+}
+
+.financer .hire-me-uLEPiC {
+  background-color: transparent;
+  height: 41px;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 110px;
+}
+
+.financer .button-AlNjVv {
+  background-color: transparent;
+  border: 1px none;
+  height: 60px;
+  left: 898px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.financer .rectangle-2-rfpZ9Y {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 215px;
+}
+
+.financer .hire-me-rfpZ9Y {
+  background-color: transparent;
+  height: 41px;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 110px;
+}
+
+.financer .organizations-stLL3v {
+  background-color: transparent;
+  height: auto;
+  left: 566px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 256px;
+}
+
+.financer .open-source-stLL3v {
+  background-color: transparent;
+  height: auto;
+  left: 307px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 229px;
+}
+
+.financer .github-stLL3v {
+  background-color: transparent;
+  height: auto;
+  left: 158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 121px;
+}
+
+.financer .hire-me-stLL3v {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 127px;
+}
+
+.financer .cec-logo-stLL3v {
+  background-color: transparent;
+  height: 120px;
+  left: 622px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.financer .snippets-978qLn {
+  background-color: transparent;
+  height: 164px;
+  left: 814px;
+  position: absolute;
+  top: 374px;
+  width: 667px;
+}
+
+.financer .snippets-ysGCdh {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 164px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 663px;
+}
+
+.financer .rectangle-6-ysGCdh {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 316px;
+}
+
+.financer .rectangle-7-ysGCdh {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 101px;
+}
+
+.financer .subscribe-to-get-access-ysGCdh {
+  background-color: transparent;
+  height: 49px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 167px;
+}
+
+.financer .snippet-of-the-day-ysGCdh {
+  background-color: transparent;
+  height: 51px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 367px;
+}
+
+.financer .image-8-978qLn {
+  background-color: transparent;
+  height: 225px;
+  left: 74px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 640px;
+}
+
+.financer .management-steps-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 1083px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2999px;
+  width: 1512px;
+}
+
+.financer .decentralized-finances-G15Ydx {
+  background-color: transparent;
+  height: 117px;
+  left: 215px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+  width: auto;
+}
+
+.financer .building-a-investmen-G15Ydx {
+  background-color: transparent;
+  height: 104px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 209px;
+  width: 1269px;
+}
+
+.financer .span0-Adx7oQ {
+}
+
+.financer .span1-Adx7oQ {
+  text-decoration: underline;
+}
+
+.financer .span2-Adx7oQ {
+}
+
+.financer .span3-Adx7oQ {
+  text-decoration: underline;
+}
+
+.financer .span4-Adx7oQ {
+}
+
+.financer .classroom-containers-G15Ydx {
+  background-color: transparent;
+  border: 1px none;
+  height: 610px;
+  left: 61px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 373px;
+  width: 1389px;
+}
+
+.financer .right-div-K3yrjt {
+  background-color: transparent;
+  height: 610px;
+  left: 729px;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .web30-Ebhjf5 {
+  background-color: transparent;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  top: 450px;
+  width: 664px;
+}
+
+.financer .web30-8EIlie {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .web-30-development-8EIlie {
+  background-color: transparent;
+  height: 42px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.financer .decentralized-network-8EIlie {
+  background-color: transparent;
+  height: 96px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 96px;
+}
+
+.financer .work-with-apex-and-b-8EIlie {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  width: auto;
+}
+
+.financer .cloud-Ebhjf5 {
+  background-color: transparent;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  top: 225px;
+  width: 664px;
+}
+
+.financer .cloud-UswrRz {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .cloud-development-UswrRz {
+  background-color: transparent;
+  height: 42px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.financer .amazon-web-services-UswrRz {
+  background-color: transparent;
+  height: 96px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 96px;
+}
+
+.financer .work-with-apex-and-b-UswrRz {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: auto;
+}
+
+.financer .python-Ebhjf5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 160px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 664px;
+}
+
+.financer .python-Ebhjf5:hover {
+  transform: scale(1.1);
+}
+
+.financer .python-scripting-PJGGFE {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .python-PJGGFE {
+  background-color: transparent;
+  height: 96px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 96px;
+}
+
+.financer .python-development-PJGGFE {
+  background-color: transparent;
+  height: 42px;
+  left: 190px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.financer .work-with-apex-and-b-PJGGFE {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: auto;
+}
+
+.financer .left-div-K3yrjt {
+  background-color: transparent;
+  height: 610px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .api-integrations-Ep6rIx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 160px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 451px;
+  transition: all 0.2s ease;
+  width: 664px;
+}
+
+.financer .api-integrations-Ep6rIx:hover {
+}
+
+.financer .api-integrations-xjOr2Q {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .rest-api-xjOr2Q {
+  background-color: transparent;
+  height: 96px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 96px;
+}
+
+.financer .api-development-xjOr2Q {
+  background-color: transparent;
+  height: 42px;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: auto;
+}
+
+.financer .work-with-apex-and-b-xjOr2Q {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: auto;
+}
+
+.financer .gis-Ep6rIx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 160px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 225px;
+  transition: all 0.2s ease;
+  width: 664px;
+}
+
+.financer .gis-Ep6rIx:hover {
+  transform: scale(1.1);
+}
+
+.financer .gis-d3YTf4 {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .gis-qq7FwO {
+  background-color: transparent;
+  height: 96px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 96px;
+}
+
+.financer .gis-development-d3YTf4 {
+  background-color: transparent;
+  height: 42px;
+  left: 187px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.financer .work-with-apex-and-b-d3YTf4 {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: auto;
+}
+
+.financer .salesforce-Ep6rIx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 160px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 664px;
+}
+
+.financer .salesforce-Ep6rIx:hover {
+  transform: scale(1.1);
+}
+
+.financer .salesforce-AoxDm8 {
+  background: linear-gradient(180deg, rgb(125.00000014901161, 190.0000038743019, 227.00000166893005) 0%, rgb(36.00000165402889, 18.000000827014446, 106.00000128149986) 100%);
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 16px;
+  height: 160px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+
+.financer .salesforce-cxlHML {
+  background-color: transparent;
+  height: 96px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 96px;
+}
+
+.financer .work-with-apex-and-b-AoxDm8 {
+  background-color: transparent;
+  height: 19px;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: auto;
+}
+
+.financer .salesforce-development-AoxDm8 {
+  background-color: transparent;
+  height: 42px;
+  left: 187px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.financer .bots-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 1048px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1951px;
+  width: 1512px;
+}
+
+.financer .livestream-xDm7Gq {
+  background-color: transparent;
+  height: 720px;
+  left: 156px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 1200px;
+}
+
+.financer .bot-xDm7Gq {
+  background-color: transparent;
+  height: 96px;
+  left: 708px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 443px;
+  width: 96px;
+}
+
+.financer .consultations-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 969px;
+  width: 1512px;
+}
+
+.financer .collaborate-img-5ZqxPL {
+  background-color: transparent;
+  height: 833px;
+  left: 592px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 920px;
+}
+
+.financer .collaborate-text-5ZqxPL {
+  background-color: transparent;
+  height: 480px;
+  left: 31px;
+  position: absolute;
+  top: 145px;
+  width: 781px;
+}
+
+.financer .appointments-90cQjg {
+  background-color: transparent;
+  height: 96px;
+  left: 162px;
+  position: absolute;
+  top: 384px;
+  width: 457px;
+}
+
+.financer .book-an-appointment-KevgAa {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 51px;
+  left: 96px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 359px;
+}
+
+.financer .planner-KevgAa {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.financer .lets-discuss-your-portfolio-90cQjg {
+  background-color: transparent;
+  height: 378px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 779px;
+}
+
+.financer .hero-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 879px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 1512px;
+}
+
+.financer .componentlottiehttps-IXqZzd {
+  background-color: transparent;
+  height: 706px;
+  left: 609px;
+  position: absolute;
+  top: 0px;
+  width: 809px;
+}
+
+.financer .hero-info-IXqZzd {
+  background-color: transparent;
+  border: 1px none;
+  height: 355px;
+  left: 79px;
+  position: absolute;
+  top: 225px;
+  width: 669px;
+}
+
+.financer .button-Z6KSnM {
+  background-color: transparent;
+  border: 1px none;
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 295px;
+  width: 215px;
+}
+
+.financer .rectangle-2-3canLo {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 215px;
+}
+
+.financer .hire-me-3canLo {
+  background-color: transparent;
+  height: 41px;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 110px;
+}
+
+.financer .an-e-commerce-and-fu-Z6KSnM {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 133px;
+  width: 668px;
+}
+
+.financer .span0-d9Ud1d {
+}
+
+.financer .span1-d9Ud1d {
+}
+
+.financer .span2-d9Ud1d {
+}
+
+.financer .elias-estrada-Z6KSnM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 669px;
+}
+
+.financer .navbar-Lsexo9 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.financer .button-wallet-Yoit0x {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1333px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.financer .hero-button-kGgra7 {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.financer .hero-button-bUO9lc {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 104px;
+}
+
+.financer .button-login-Yoit0x {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1164px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.financer .hero-button-zhlSF6 {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.financer .hero-button-KUDRRU {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 74px;
+}
+
+.financer .organizations-Yoit0x {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.financer .github-Yoit0x {
+  background-color: transparent;
+  height: auto;
+  left: 722px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.financer .hire-me-Yoit0x {
+  background-color: transparent;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.financer .open-source-Yoit0x {
+  background-color: transparent;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: auto;
+}
+
+.financer .dashboard-layout-Yoit0x {
+  background-color: transparent;
+  height: 60px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 60px;
+}

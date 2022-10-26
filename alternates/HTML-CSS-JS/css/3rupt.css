@@ -1,0 +1,1371 @@
+/* screen - 3rupt */
+
+.x3rupt {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 122px;
+  height: 100vh;
+  left: 0px;
+  margin: 0px;
+  min-height: 5610px;
+  min-width: 1512px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.x3rupt .x3-rupt-HpqnUx {
+  background-color: transparent;
+  height: 5610px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.x3rupt .body-XuRnhu {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 5610px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1512px;
+}
+
+.x3rupt .footer-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5018px;
+  width: 1512px;
+}
+
+.x3rupt .image-8-g6SHD9 {
+  background-color: transparent;
+  height: 225px;
+  left: 74px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 640px;
+}
+
+.x3rupt .snippets-g6SHD9 {
+  background-color: transparent;
+  height: 164px;
+  left: 814px;
+  position: absolute;
+  top: 374px;
+  width: 667px;
+}
+
+.x3rupt .snippets-ZBhgWA {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  border-radius: 16px;
+  height: 164px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 663px;
+}
+
+.x3rupt .rectangle-6-ZBhgWA {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 316px;
+}
+
+.x3rupt .rectangle-7-ZBhgWA {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 101px;
+}
+
+.x3rupt .subscribe-to-get-access-ZBhgWA {
+  background-color: transparent;
+  height: 49px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 167px;
+}
+
+.x3rupt .snippet-of-the-day-ZBhgWA {
+  background-color: transparent;
+  height: 51px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 367px;
+}
+
+.x3rupt .footer-menu-g6SHD9 {
+  background-color: transparent;
+  height: 233px;
+  left: 94px;
+  position: absolute;
+  top: 47px;
+  width: 1391px;
+}
+
+.x3rupt .button-GQzk1T {
+  background-color: transparent;
+  height: 60px;
+  left: 1168px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.x3rupt .button-vjxxjj {
+  background-color: transparent;
+  height: 60px;
+  left: 878px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.x3rupt .organizations-GQzk1T {
+  background-color: transparent;
+  height: auto;
+  left: 552px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 250px;
+}
+
+.x3rupt .github-GQzk1T {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 118px;
+}
+
+.x3rupt .hire-me-GQzk1T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 124px;
+}
+
+.x3rupt .open-source-GQzk1T {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 223px;
+}
+
+.x3rupt .x3-rupt-logo-1-GQzk1T {
+  background-color: transparent;
+  height: 120px;
+  left: 602px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.x3rupt .live-developing-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 4036px;
+  width: 1512px;
+}
+
+.x3rupt .button-2-VjacAz {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 806px;
+  position: absolute;
+  top: 826px;
+  width: 257px;
+}
+
+.x3rupt .rectangle-2-PtaS31 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x3rupt .dashboard-PtaS31 {
+  background-color: transparent;
+  color: var(--mexican-red);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 12.06%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22.06%;
+  width: 73.54%;
+}
+
+.x3rupt .button-VjacAz {
+  background-color: transparent;
+  height: 68px;
+  left: 449px;
+  position: absolute;
+  top: 826px;
+  width: 259px;
+}
+
+.x3rupt .rectangle-2-9HYQ3u {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.x3rupt .learn-how-9HYQ3u {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.x3rupt .dev-environment-VjacAz {
+  background-color: transparent;
+  height: 720px;
+  left: 156px;
+  position: absolute;
+  top: 40px;
+  width: 1200px;
+}
+
+.x3rupt .livestream-MxxOKe {
+  background-color: transparent;
+  height: 720px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.x3rupt .duckly-MxxOKe {
+  background-color: transparent;
+  height: 170px;
+  left: 426px;
+  position: absolute;
+  top: 266px;
+  width: 349px;
+}
+
+.x3rupt .flying-duck-8U3TDp {
+  background-color: transparent;
+  height: 96px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 74px;
+  width: 96px;
+}
+
+.x3rupt .duckly-environment-8U3TDp {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.x3rupt .team-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 3054px;
+  width: 1512px;
+}
+
+.x3rupt .avatars-pwfsG3 {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 282px;
+  width: 1512px;
+}
+
+.x3rupt .vector-csTxp5 {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 200px;
+  width: 1512px;
+}
+
+.x3rupt .user_7-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 1334px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-2-YOZGAI {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-YOZGAI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-YOZGAI {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_6-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 1184px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-1-wof6Sq {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-wof6Sq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-wof6Sq {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_5-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 999px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-5-kxgOgt {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-kxgOgt {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-kxgOgt {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_4-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 756px;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-4-QWfcWv {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-QWfcWv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-QWfcWv {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_3-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 476px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-3-p61TNJ {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-p61TNJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-p61TNJ {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_2-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 253px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-2-2xjSsT {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-2xjSsT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-2xjSsT {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .user_1-csTxp5 {
+  background-color: transparent;
+  height: 201px;
+  left: 25px;
+  position: absolute;
+  top: 349px;
+  width: 154px;
+}
+
+.x3rupt .ellipse-1-JwrBxC {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.x3rupt .githubcom0x0000-JwrBxC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.x3rupt .username_1-JwrBxC {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.x3rupt .become-a-contributor-pwfsG3 {
+  background-color: transparent;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.x3rupt .span0-QSoxtj {
+}
+
+.x3rupt .span1-QSoxtj {
+  color: var(--mexican-red);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.x3rupt .tools-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2072px;
+  width: 1512px;
+}
+
+.x3rupt .menus-1Ax6wy {
+  background-color: transparent;
+  height: 672px;
+  left: 71px;
+  position: absolute;
+  top: 247px;
+  width: 1373px;
+}
+
+.x3rupt .faq-qTpPVh {
+  background-color: transparent;
+  height: 117px;
+  left: 4px;
+  position: absolute;
+  top: 555px;
+  width: 1371px;
+}
+
+.x3rupt .faq-akItkB {
+  background-color: var(--mexican-red-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.x3rupt .fa-qs-akItkB {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.x3rupt .read-me-qTpPVh {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 370px;
+  width: 1371px;
+}
+
+.x3rupt .packages-jijSDg {
+  background-color: var(--mexican-red-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.x3rupt .readmemd-jijSDg {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.x3rupt .packages-qTpPVh {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 185px;
+  width: 1371px;
+}
+
+.x3rupt .packages-LMS0Sa {
+  background-color: var(--mexican-red-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.x3rupt .packages-Un2O8l {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.x3rupt .gitbook-qTpPVh {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 1371px;
+}
+
+.x3rupt .gitbook-epVMXd {
+  background-color: var(--mexican-red-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.x3rupt .gitbook-VJyFUQ {
+  background-color: transparent;
+  height: 106px;
+  left: 474px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 426px;
+}
+
+.x3rupt .expand-for-more-information-1Ax6wy {
+  background-color: transparent;
+  height: 109px;
+  left: 237px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 1042px;
+}
+
+.x3rupt .products-3uBdmT {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  height: 1000px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1072px;
+  width: 1512px;
+}
+
+.x3rupt .downloads-ZflxWV {
+  background-color: transparent;
+  height: 444px;
+  left: 61px;
+  position: absolute;
+  top: 503px;
+  width: 1392px;
+}
+
+.x3rupt .car-application-oOjUUL {
+  background-color: transparent;
+  height: 105px;
+  left: 50px;
+  position: absolute;
+  top: 339px;
+  width: 1051px;
+}
+
+.x3rupt .soon-to-be-car-application-crQkIv {
+  background-color: transparent;
+  height: 46px;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 879px;
+}
+
+.x3rupt .car-top-view-crQkIv {
+  background-color: transparent;
+  height: 105px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.x3rupt .downloads-oOjUUL {
+  background-color: transparent;
+  border: 1px none;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 128px;
+  width: 1390px;
+}
+
+.x3rupt .mac-client-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .windows-client-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 17.19%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .app-symbol-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 34.38%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .playstore-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 51.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .apple-watch-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 68.75%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .command-line-8fHixj {
+  background-color: transparent;
+  height: 100.00%;
+  left: 85.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.x3rupt .platforms-available-for-download-oOjUUL {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 866px;
+}
+
+.x3rupt .product-management-ZflxWV {
+  background-color: transparent;
+  height: 336px;
+  left: 86px;
+  position: absolute;
+  top: 68px;
+  width: 1346px;
+}
+
+.x3rupt .lorem-ipsum-dolor-si-QaMcya {
+  background-color: transparent;
+  height: 97px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 1340px;
+}
+
+.x3rupt .learn-more-QaMcya {
+  background-color: transparent;
+  height: 24px;
+  left: 610px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 312px;
+  width: 120px;
+}
+
+.x3rupt .product-management-QaMcya {
+  background-color: transparent;
+  height: auto;
+  left: 214px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1042px;
+}
+
+.x3rupt .kanban-QaMcya {
+  background-color: transparent;
+  height: 89px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 96px;
+}
+
+.x3rupt .hero-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 1512px;
+}
+
+.x3rupt .button-2-rlpuF5 {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 379px;
+  position: absolute;
+  top: 562px;
+  width: 257px;
+}
+
+.x3rupt .rectangle-2-vikJYG {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x3rupt .dashboard-vikJYG {
+  background-color: transparent;
+  color: var(--mexican-red);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 10.12%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22.06%;
+  width: 77.04%;
+}
+
+.x3rupt .button-rlpuF5 {
+  background-color: transparent;
+  height: 68px;
+  left: 97px;
+  position: absolute;
+  top: 562px;
+  width: 259px;
+}
+
+.x3rupt .rectangle-2-puRx2d {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.x3rupt .contribute-puRx2d {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.x3rupt .x3-rupt-logo-2-rlpuF5 {
+  background-color: transparent;
+  height: 982px;
+  left: 887px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 625px;
+}
+
+.x3rupt .this-web-30-applicat-rlpuF5 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  width: 570px;
+}
+
+.x3rupt .x3-rupt-rlpuF5 {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 285px;
+  width: auto;
+}
+
+.x3rupt .navbar-3uBdmT {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.x3rupt .button-wallet-9smx5Z {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1333px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.x3rupt .hero-button-89lrxx {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x3rupt .hero-button-zrYxEY {
+  background-color: transparent;
+  height: 56.00%;
+  left: 15.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 69.50%;
+}
+
+.x3rupt .button-login-9smx5Z {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1164px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.x3rupt .hero-button-ImybQP {
+  background-color: var(--mexican-red);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.x3rupt .hero-button-E3kP7P {
+  background-color: transparent;
+  height: 56.00%;
+  left: 25.50%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 49.00%;
+}
+
+.x3rupt .organizations-9smx5Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.x3rupt .github-9smx5Z {
+  background-color: transparent;
+  height: auto;
+  left: 722px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.x3rupt .hire-me-9smx5Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.x3rupt .open-source-9smx5Z {
+  background-color: transparent;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.x3rupt .dashboard-layout-9smx5Z {
+  background-color: transparent;
+  height: 60px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 60px;
+}

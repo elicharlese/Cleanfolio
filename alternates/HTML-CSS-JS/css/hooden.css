@@ -1,0 +1,1370 @@
+/* screen - hooden */
+
+.hooden {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: 100vh;
+  left: 0px;
+  margin: 0px;
+  min-height: 5592px;
+  min-width: 1512px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.hooden .hooden-uxu91d {
+  background-color: transparent;
+  height: 5592px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.hooden .body-03b6bO {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 5592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1512px;
+}
+
+.hooden .footer-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5000px;
+  width: 1512px;
+}
+
+.hooden .image-8-n8oXz4 {
+  background-color: transparent;
+  height: 225px;
+  left: 74px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 640px;
+}
+
+.hooden .snippets-n8oXz4 {
+  background-color: transparent;
+  height: 164px;
+  left: 814px;
+  position: absolute;
+  top: 374px;
+  width: 667px;
+}
+
+.hooden .snippets-9LCoIG {
+  background-color: var(--portage);
+  border: 1px none;
+  border-radius: 16px;
+  height: 164px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 663px;
+}
+
+.hooden .rectangle-6-9LCoIG {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 316px;
+}
+
+.hooden .rectangle-7-9LCoIG {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 101px;
+}
+
+.hooden .subscribe-to-get-access-9LCoIG {
+  background-color: transparent;
+  height: 49px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 167px;
+}
+
+.hooden .snippet-of-the-day-9LCoIG {
+  background-color: transparent;
+  height: 51px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 367px;
+}
+
+.hooden .footer-menu-n8oXz4 {
+  background-color: transparent;
+  height: 233px;
+  left: 94px;
+  position: absolute;
+  top: 47px;
+  width: 1391px;
+}
+
+.hooden .button-iwTvk4 {
+  background-color: transparent;
+  height: 60px;
+  left: 1168px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.hooden .button-x1opes {
+  background-color: transparent;
+  height: 60px;
+  left: 878px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.hooden .organizations-iwTvk4 {
+  background-color: transparent;
+  height: auto;
+  left: 552px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 250px;
+}
+
+.hooden .github-iwTvk4 {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 118px;
+}
+
+.hooden .hire-me-iwTvk4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 124px;
+}
+
+.hooden .open-source-iwTvk4 {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 223px;
+}
+
+.hooden .logo-hooden-iwTvk4 {
+  background-color: transparent;
+  height: 120px;
+  left: 602px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.hooden .live-developing-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 4018px;
+  width: 1512px;
+}
+
+.hooden .button-2-x1PCTo {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 806px;
+  position: absolute;
+  top: 826px;
+  width: 257px;
+}
+
+.hooden .rectangle-2-OZuEvx {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.hooden .dashboard-OZuEvx {
+  background-color: transparent;
+  color: var(--portage);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 12.06%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 22.06%;
+  width: 73.54%;
+}
+
+.hooden .button-x1PCTo {
+  background-color: transparent;
+  height: 68px;
+  left: 449px;
+  position: absolute;
+  top: 826px;
+  width: 259px;
+}
+
+.hooden .rectangle-2-aCWUbH {
+  background-color: var(--portage);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.hooden .learn-how-aCWUbH {
+  background-color: transparent;
+  height: 38px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.hooden .dev-environment-x1PCTo {
+  background-color: transparent;
+  height: 720px;
+  left: 156px;
+  position: absolute;
+  top: 40px;
+  width: 1200px;
+}
+
+.hooden .livestream-3XFgx2 {
+  background-color: transparent;
+  height: 720px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1200px;
+}
+
+.hooden .duckly-3XFgx2 {
+  background-color: transparent;
+  height: 170px;
+  left: 426px;
+  position: absolute;
+  top: 266px;
+  width: 349px;
+}
+
+.hooden .flying-duck-b5R21a {
+  background-color: transparent;
+  height: 96px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 74px;
+  width: 96px;
+}
+
+.hooden .duckly-environment-b5R21a {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.hooden .team-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 3036px;
+  width: 1512px;
+}
+
+.hooden .avatars-4OB082 {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  position: absolute;
+  top: 282px;
+  width: 1512px;
+}
+
+.hooden .vector-uExTVu {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 200px;
+  width: 1512px;
+}
+
+.hooden .user_7-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 1334px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.hooden .ellipse-2-WZW23a {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-WZW23a {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-WZW23a {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_6-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 1184px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.hooden .ellipse-1-KX0DA9 {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-KX0DA9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-KX0DA9 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_5-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 999px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.hooden .ellipse-5-RJhZhV {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-RJhZhV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-RJhZhV {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_4-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 756px;
+  position: absolute;
+  top: 19px;
+  width: 154px;
+}
+
+.hooden .ellipse-4-D8VwD8 {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-D8VwD8 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-D8VwD8 {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_3-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 476px;
+  position: absolute;
+  top: 70px;
+  width: 154px;
+}
+
+.hooden .ellipse-3-BYYXMA {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-BYYXMA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-BYYXMA {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_2-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 253px;
+  position: absolute;
+  top: 220px;
+  width: 154px;
+}
+
+.hooden .ellipse-2-bHRZmv {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-bHRZmv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-bHRZmv {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .user_1-uExTVu {
+  background-color: transparent;
+  height: 201px;
+  left: 25px;
+  position: absolute;
+  top: 349px;
+  width: 154px;
+}
+
+.hooden .ellipse-1-8zBgIm {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.hooden .githubcom0x0000-8zBgIm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: auto;
+}
+
+.hooden .username_1-8zBgIm {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.hooden .become-a-contributor-4OB082 {
+  background-color: transparent;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.hooden .span0-QTlSv2 {
+}
+
+.hooden .span1-QTlSv2 {
+  color: var(--portage);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hooden .tools-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2054px;
+  width: 1512px;
+}
+
+.hooden .menus-416ehP {
+  background-color: transparent;
+  height: 672px;
+  left: 71px;
+  position: absolute;
+  top: 247px;
+  width: 1373px;
+}
+
+.hooden .faq-gAumoc {
+  background-color: transparent;
+  height: 117px;
+  left: 4px;
+  position: absolute;
+  top: 555px;
+  width: 1371px;
+}
+
+.hooden .faq-O74b2N {
+  background-color: var(--portage-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.hooden .fa-qs-O74b2N {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.hooden .read-me-gAumoc {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 370px;
+  width: 1371px;
+}
+
+.hooden .packages-wuGVCh {
+  background-color: var(--portage-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.hooden .readmemd-wuGVCh {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.hooden .packages-gAumoc {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 185px;
+  width: 1371px;
+}
+
+.hooden .packages-As3uTL {
+  background-color: var(--portage-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.hooden .packages-3NOGTE {
+  background-color: transparent;
+  height: 106px;
+  left: 424px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 521px;
+}
+
+.hooden .gitbook-gAumoc {
+  background-color: transparent;
+  height: 117px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 1371px;
+}
+
+.hooden .gitbook-Ztn44k {
+  background-color: var(--portage-2);
+  border: 1px none;
+  border-radius: 16px;
+  height: 117px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1369px;
+}
+
+.hooden .gitbook-yYKOSu {
+  background-color: transparent;
+  height: 106px;
+  left: 474px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 426px;
+}
+
+.hooden .expand-for-more-information-416ehP {
+  background-color: transparent;
+  height: 109px;
+  left: 237px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 1042px;
+}
+
+.hooden .products-QTb9zP {
+  background-color: var(--portage);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1072px;
+  width: 1512px;
+}
+
+.hooden .downloads-PHlugB {
+  background-color: transparent;
+  height: 444px;
+  left: 61px;
+  position: absolute;
+  top: 503px;
+  width: 1392px;
+}
+
+.hooden .car-application-4urVx5 {
+  background-color: transparent;
+  height: 105px;
+  left: 50px;
+  position: absolute;
+  top: 339px;
+  width: 1051px;
+}
+
+.hooden .soon-to-be-car-application-aRVeGp {
+  background-color: transparent;
+  height: 46px;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 879px;
+}
+
+.hooden .car-top-view-aRVeGp {
+  background-color: transparent;
+  height: 105px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.hooden .downloads-4urVx5 {
+  background-color: transparent;
+  border: 1px none;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 128px;
+  width: 1390px;
+}
+
+.hooden .mac-client-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .windows-client-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 17.19%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .app-symbol-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 34.38%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .playstore-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 51.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .apple-watch-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 68.75%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .command-line-g8VsIJ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 85.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 14.06%;
+}
+
+.hooden .platforms-available-for-download-4urVx5 {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 866px;
+}
+
+.hooden .product-management-PHlugB {
+  background-color: transparent;
+  height: 336px;
+  left: 86px;
+  position: absolute;
+  top: 68px;
+  width: 1346px;
+}
+
+.hooden .lorem-ipsum-dolor-si-CGOWe0 {
+  background-color: transparent;
+  height: 97px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: 1340px;
+}
+
+.hooden .learn-more-CGOWe0 {
+  background-color: transparent;
+  height: 24px;
+  left: 610px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 312px;
+  width: 120px;
+}
+
+.hooden .product-management-CGOWe0 {
+  background-color: transparent;
+  height: auto;
+  left: 214px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1042px;
+}
+
+.hooden .kanban-CGOWe0 {
+  background-color: transparent;
+  height: 89px;
+  left: 73px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 96px;
+}
+
+.hooden .hero-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 1512px;
+}
+
+.hooden .button-rHOaBc {
+  background-color: transparent;
+  height: 68px;
+  left: 97px;
+  position: absolute;
+  top: 530px;
+  width: 259px;
+}
+
+.hooden .rectangle-2-soEB3X {
+  background-color: var(--portage);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.hooden .contribute-soEB3X {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.hooden .hooden-rHOaBc {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 285px;
+  width: auto;
+}
+
+.hooden .logo-hooden-rHOaBc {
+  background-color: transparent;
+  height: 982px;
+  left: 818px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 694px;
+}
+
+.hooden .button-2-rHOaBc {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 68px;
+  left: 384px;
+  position: absolute;
+  top: 530px;
+  width: 257px;
+}
+
+.hooden .rectangle-2-7HvqNa {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.hooden .dashboard-7HvqNa {
+  background-color: transparent;
+  color: var(--portage);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55.88%;
+  left: 10.12%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22.06%;
+  width: 77.04%;
+}
+
+.hooden .this-web-30-applicat-rHOaBc {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  width: 570px;
+}
+
+.hooden .navbar-QTb9zP {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.hooden .button-wallet-2nxEU0 {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1333px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.hooden .hero-button-xKYpuq {
+  background-color: var(--portage);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.hooden .hero-button-ZcyRDf {
+  background-color: transparent;
+  height: 56.00%;
+  left: 15.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 69.50%;
+}
+
+.hooden .button-login-2nxEU0 {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1164px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.hooden .hero-button-kfuWA5 {
+  background-color: var(--portage);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.hooden .hero-button-UUpNFu {
+  background-color: transparent;
+  height: 56.00%;
+  left: 25.50%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 49.00%;
+}
+
+.hooden .organizations-2nxEU0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.hooden .github-2nxEU0 {
+  background-color: transparent;
+  height: auto;
+  left: 722px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.hooden .hire-me-2nxEU0 {
+  background-color: transparent;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.hooden .open-source-2nxEU0 {
+  background-color: transparent;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.hooden .dashboard-layout-2nxEU0 {
+  background-color: transparent;
+  height: 60px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 60px;
+}

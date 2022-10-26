@@ -1,0 +1,919 @@
+/* screen - organizations */
+
+.organizations {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  height: 100vh;
+  left: 0px;
+  margin: 0px;
+  min-height: 3758px;
+  min-width: 1512px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.organizations .organizations-b72TxG {
+  background-color: transparent;
+  height: 3758px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.organizations .body-JfT42p {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 3758px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1512px;
+}
+
+.organizations .footer-9rt0h2 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 592px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 3166px;
+  width: 1512px;
+}
+
+.organizations .footer-menu-96V4Hu {
+  background-color: transparent;
+  height: 233px;
+  left: 74px;
+  position: absolute;
+  top: 47px;
+  width: 1411px;
+}
+
+.organizations .button-6k5B4X {
+  background-color: transparent;
+  border: 1px none;
+  height: 60px;
+  left: 1188px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.organizations .rectangle-2-RWhjUJ {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.organizations .hire-me-RWhjUJ {
+  background-color: transparent;
+  height: 68.58%;
+  left: 24.20%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16.06%;
+  width: 51.02%;
+}
+
+.organizations .button-x34YGj {
+  background-color: transparent;
+  border: 1px none;
+  height: 60px;
+  left: 898px;
+  position: absolute;
+  top: 173px;
+  width: 215px;
+}
+
+.organizations .rectangle-2-A44Buy {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.organizations .hire-me-A44Buy {
+  background-color: transparent;
+  height: 68.58%;
+  left: 24.20%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16.06%;
+  width: 51.02%;
+}
+
+.organizations .organizations-6k5B4X {
+  background-color: transparent;
+  height: auto;
+  left: 566px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 256px;
+}
+
+.organizations .open-source-6k5B4X {
+  background-color: transparent;
+  height: auto;
+  left: 307px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 229px;
+}
+
+.organizations .github-6k5B4X {
+  background-color: transparent;
+  height: auto;
+  left: 158px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 121px;
+}
+
+.organizations .hire-me-6k5B4X {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 127px;
+}
+
+.organizations .cec-logo-6k5B4X {
+  background-color: transparent;
+  height: 120px;
+  left: 622px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.organizations .snippets-96V4Hu {
+  background-color: transparent;
+  height: 164px;
+  left: 814px;
+  position: absolute;
+  top: 374px;
+  width: 667px;
+}
+
+.organizations .snippets-44rLOf {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 164px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 663px;
+}
+
+.organizations .rectangle-6-44rLOf {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 316px;
+}
+
+.organizations .rectangle-7-44rLOf {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 16px;
+  height: 33px;
+  left: 533px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 101px;
+}
+
+.organizations .subscribe-to-get-access-44rLOf {
+  background-color: transparent;
+  height: 49px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  width: 167px;
+}
+
+.organizations .snippet-of-the-day-44rLOf {
+  background-color: transparent;
+  height: 51px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 367px;
+}
+
+.organizations .image-8-96V4Hu {
+  background-color: transparent;
+  height: 225px;
+  left: 74px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 640px;
+}
+
+.organizations .minor-organizations-9rt0h2 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 1112px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2054px;
+  width: 1512px;
+}
+
+.organizations .wave-8Drlwf {
+  background-color: transparent;
+  height: 650px;
+  left: 0px;
+  position: absolute;
+  top: 462px;
+  width: 1512px;
+}
+
+.organizations .logo-3rupt-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 190px;
+  left: 84px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 190px;
+}
+
+.organizations .logo-bitcell-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 254px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 150px;
+}
+
+.organizations .logo-cheers-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 404px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 150px;
+}
+
+.organizations .logo-half-and-half-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 606px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 150px;
+}
+
+.organizations .logo-the-public-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 808px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 150px;
+}
+
+.organizations .logo-knott-bank-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 987px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 150px;
+}
+
+.organizations .logo-hooden-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 1137px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 150px;
+}
+
+.organizations .logo-uni-meta-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 1287px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 175px;
+  width: 150px;
+}
+
+.organizations .logo-blockify-UjKkl9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 150px;
+  left: 1362px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+}
+
+.organizations .vector-UjKkl9 {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 1512px;
+}
+
+.organizations .minor-organizations-8Drlwf {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 282px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+  width: auto;
+}
+
+.organizations .dao-development-9rt0h2 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1072px;
+  width: 1512px;
+}
+
+.organizations .step-4-R6EOEO {
+  background-color: transparent;
+  height: 245px;
+  left: 1136px;
+  position: absolute;
+  top: 641px;
+  width: 247px;
+}
+
+.organizations .get-paid-to-be-a-developer-7g4z3D {
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 245px;
+}
+
+.organizations .source-code-7g4z3D {
+  background-color: transparent;
+  height: 179px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.organizations .step-3-R6EOEO {
+  background-color: transparent;
+  height: 245px;
+  left: 130px;
+  position: absolute;
+  top: 491px;
+  width: 247px;
+}
+
+.organizations .commit-your-code-for-review-Y5QAyd {
+  background-color: transparent;
+  height: 55px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 245px;
+}
+
+.organizations .code-fork-Y5QAyd {
+  background-color: transparent;
+  height: 179px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.organizations .step-2-R6EOEO {
+  background-color: transparent;
+  height: 245px;
+  left: 1136px;
+  position: absolute;
+  top: 126px;
+  width: 247px;
+}
+
+.organizations .connect-your-git-hub-T1Qfx4 {
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 245px;
+}
+
+.organizations .git-hub-T1Qfx4 {
+  background-color: transparent;
+  height: 179px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.organizations .step-1-R6EOEO {
+  background-color: transparent;
+  height: 245px;
+  left: 130px;
+  position: absolute;
+  top: 37px;
+  width: 247px;
+}
+
+.organizations .create-dashboard-login-rfU3TN {
+  background-color: transparent;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 245px;
+}
+
+.organizations .performance-macbook-rfU3TN {
+  background-color: transparent;
+  height: 179px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.organizations .timeline-R6EOEO {
+  background-color: transparent;
+  height: 879px;
+  left: 362px;
+  position: absolute;
+  top: 73px;
+  width: 778px;
+}
+
+.organizations .major-organizations-9rt0h2 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 982px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 1512px;
+}
+
+.organizations .major-organizations-buttons-KywPw3 {
+  background-color: transparent;
+  height: 68px;
+  left: 183px;
+  position: absolute;
+  top: 692px;
+  width: 1147px;
+}
+
+.organizations .button-OGpFkJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 890px;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.organizations .hero-button-hyk9Tv {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.organizations .hero-button-Axb4z2 {
+  background-color: transparent;
+  height: auto;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.organizations .button-wYxUnL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 549px;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.organizations .hero-button-KrAARF {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 257px;
+}
+
+.organizations .hero-button-Bdx2DS {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.organizations .button-x8mB3Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 467px;
+}
+
+.organizations .hero-button-zwf2Vf {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 68px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 465px;
+}
+
+.organizations .hero-button-Tx47oF {
+  background-color: transparent;
+  height: 38px;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
+
+.organizations .hero-KywPw3 {
+  background-color: transparent;
+  height: 270px;
+  left: 250px;
+  position: absolute;
+  top: 272px;
+  width: 1024px;
+}
+
+.organizations .ece-dapps-channel-op-jb0u1N {
+  background-color: transparent;
+  height: 119px;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 151px;
+  width: 870px;
+}
+
+.organizations .hero-text-jb0u1N {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 400;
+  height: 151px;
+  left: 269px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 751px;
+}
+
+.organizations .hero-image-jb0u1N {
+  background-color: transparent;
+  height: 151px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.organizations .react-native-ibuQet {
+  background-color: transparent;
+  height: 39px;
+  left: 109px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 56px;
+  width: 51px;
+}
+
+.organizations .laptop-ibuQet {
+  background-color: transparent;
+  height: 151px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 269px;
+}
+
+.organizations .navbar-9rt0h2 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.organizations .button-wallet-ENFrrh {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1333px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.organizations .hero-button-6fDRRv {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.organizations .hero-button-IhdesT {
+  background-color: transparent;
+  height: 56.00%;
+  left: 15.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 69.50%;
+}
+
+.organizations .button-login-ENFrrh {
+  background-color: transparent;
+  border: 1px none;
+  height: 50px;
+  left: 1164px;
+  position: absolute;
+  top: 20px;
+  width: 150px;
+}
+
+.organizations .hero-button-FxU0Tg {
+  background-color: var(--seagull);
+  border: 1px none;
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.organizations .hero-button-eY6AKH {
+  background-color: transparent;
+  height: 56.00%;
+  left: 25.50%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14.00%;
+  width: 49.00%;
+}
+
+.organizations .organizations-ENFrrh {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.organizations .github-ENFrrh {
+  background-color: transparent;
+  height: auto;
+  left: 722px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.organizations .hire-me-ENFrrh {
+  background-color: transparent;
+  height: auto;
+  left: 622px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: auto;
+}
+
+.organizations .open-source-ENFrrh {
+  background-color: transparent;
+  height: auto;
+  left: 818px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.organizations .dashboard-layout-ENFrrh {
+  background-color: transparent;
+  height: 60px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 60px;
+}
