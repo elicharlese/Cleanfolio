@@ -1,0 +1,6 @@
+// pragma solidity
+
+contract walletMetamask {
+    //
+}
+
