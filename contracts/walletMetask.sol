@@ -3,4 +3,3 @@
 contract walletMetamask {
     //
 }
-
