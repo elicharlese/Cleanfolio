@@ -1,0 +1,44 @@
+.avatars,
+.avatars-1,
+.avatars-2,
+.avatars-3,
+.avatars-4,
+.avatars-5,
+.avatars-6,
+.avatars-7,
+.avatars-8 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1512px;
+}
+
+.overlap-group-74,
+.overlap-group-75,
+.overlap-group-76,
+.overlap-group-77,
+.overlap-group-78,
+.overlap-group-79,
+.overlap-group-80,
+.overlap-group-81,
+.overlap-group-82 {
+  height: 700px;
+  position: relative;
+  width: 1512px;
+}
+
+.vector-1,
+.vector-2,
+.vector-3,
+.vector-4,
+.vector-5,
+.vector-6,
+.vector-7,
+.vector-8,
+.vector-9 {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 1512px;
+}
+

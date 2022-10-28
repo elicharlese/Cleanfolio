@@ -1,0 +1,29 @@
+.blockchains-text-2,
+.blockchains-text-2.blockchains-text {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  height: 84px;
+  margin-top: 52px;
+  width: 613px;
+}
+
+.blockchain-bounty-hunting-team-tdto-1 {
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 609px;
+}
+
+.we-have-experience-w-1 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 36px;
+  width: 535px;
+}
+
+.blockchains-text-2.blockchains-text-1 {
+  margin-top: 3196px;
+}
+

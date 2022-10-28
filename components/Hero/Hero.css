@@ -1,0 +1,28 @@
+.hero-3,
+.hero-4 {
+  align-items: flex-start;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  height: 963px;
+  padding: 77.5px 0;
+  width: 1440px;
+}
+
+.hero-i-container-2,
+.hero-i-container-3 {
+  height: 804px;
+  margin-left: 79px;
+  position: relative;
+  width: 1361px;
+}
+
+.hero-image-2,
+.hero-image-3 {
+  height: 804px;
+  left: 214px;
+  position: absolute;
+  top: 0;
+  width: 1147px;
+}
+

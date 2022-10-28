@@ -1,0 +1,16 @@
+.about-me-20 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 118.3px;
+  height: 982px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.about-me-20.about-me-19 {
+  min-width: unset;
+  width: 1512px;
+}
+

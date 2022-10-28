@@ -1,8 +1,18 @@
-.hire-me {
-  align-items: flex-start;
-  background-color: #7981e5;
+.hire-me-38 {
+  background-color: var(--material-themereferrorerror100);
   border: 1px none;
   display: flex;
-  min-width: 1512px;
+  flex-direction: column;
+  gap: 33px;
+  height: 1046px;
+  position: relative;
+  width: 1440px;
+}
+
+.click-up-9 {
+  height: 753px;
+  margin-left: 454px;
+  object-fit: cover;
+  width: 533px;
 }
 

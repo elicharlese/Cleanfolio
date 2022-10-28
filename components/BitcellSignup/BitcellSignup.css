@@ -1,0 +1,42 @@
+.bitcell-signup-1,
+.bitcell-signup-2,
+.bitcell-signup {
+  display: flex;
+  margin-top: 51px;
+  position: relative;
+  width: 1054px;
+}
+
+.user-email-1,
+.user-email-2,
+.user-email {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 28px;
+  min-width: 524px;
+}
+
+.overlap-group1-2,
+.overlap-group1-3,
+.overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px solid;
+  border-color: var(--cape-cod);
+  border-radius: 8px;
+  display: flex;
+  height: 43px;
+  min-width: 522px;
+  padding: 8px 34px;
+}
+
+.email-address-1,
+.email-address-2,
+.email-address {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 144px;
+  text-align: center;
+}
+

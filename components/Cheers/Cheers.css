@@ -1,7 +1,159 @@
 .cheers {
-  align-items: flex-start;
+  align-items: center;
   border: 1px none;
   display: flex;
+  flex-direction: column;
+  gap: 53px;
+  height: 100vh;
+  min-height: 5610px;
   min-width: 1512px;
+  width: 100%;
+}
+
+.cheers-1 {
+  display: flex;
+  height: 5610px;
+  min-width: 1512px;
+}
+
+.body-25 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5610px;
+  position: relative;
+  width: 1512px;
+}
+
+.hero-21 {
+  align-items: center;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  gap: 200px;
+  width: 1512px;
+}
+
+.flex-col-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 87.0px;
+  margin-left: 94px;
+  min-height: 327px;
+  width: 570px;
+}
+
+.cheers-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  min-height: 94px;
+}
+
+.this-web-30-applica-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  width: 570px;
+}
+
+.flex-row-93 {
+  align-items: flex-start;
+  display: flex;
+  gap: 27px;
+  margin-left: 3px;
+  margin-top: 47px;
+  min-width: 541px;
+  position: relative;
+}
+
+.overlap-group-89 {
+  align-items: center;
+  background-color: var(--anzac);
+  border-radius: 16px;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  min-width: 257px;
+  padding: 0 25px;
+}
+
+.contribute-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  min-width: 206px;
+}
+
+.logo-cheers-2 {
+  height: 982px;
+  object-fit: cover;
+  width: 648px;
+}
+
+.team-3 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 982px;
+  position: relative;
+}
+
+.become-a-contributor-3 {
+  height: 117px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 253px;
+  margin-top: 105px;
+  width: 1006px;
+}
+
+.span1-10 {
+  color: var(--anzac);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+}
+
+.live-developing-3 {
+  align-items: center;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 66px;
+  height: 982px;
+  padding: 40px 0;
+  position: relative;
+}
+
+.flex-row-94 {
+  align-items: flex-start;
+  display: flex;
+  gap: 100px;
+  min-width: 614px;
+  position: relative;
+}
+
+.overlap-group-90 {
+  align-items: center;
+  background-color: var(--anzac);
+  border-radius: 16px;
+  display: flex;
+  height: 68px;
+  min-width: 257px;
+  padding: 0 26px;
+}
+
+.learn-how-3 {
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 194px;
+  text-align: center;
 }
 

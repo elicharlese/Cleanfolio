@@ -1,0 +1,14 @@
+.bitcellular-1 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  height: 401px;
+  min-width: 1512px;
+  position: relative;
+}
+
+.bitcellular-1.bitcellular {
+  min-width: unset;
+  width: 1512px;
+}
+

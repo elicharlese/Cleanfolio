@@ -1,7 +1,10 @@
-.bitcellular {
-  align-items: flex-start;
+.bitcellular-8,
+.bitcellular-9 {
+  background-color: var(--material-themereferrorerror100);
   border: 1px none;
   display: flex;
-  min-width: 1512px;
+  height: 401px;
+  position: relative;
+  width: 1440px;
 }
 

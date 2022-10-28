@@ -1,51 +1,51 @@
 import React from "react";
-import Navbar from "../Navbar";
+import ButtonLogin from "../ButtonLogin";
+import ButtonWallet from "../ButtonWallet";
 import HeroInfo from "../HeroInfo";
-import Bots from "../Bots";
-import ClassroomContainers from "../ClassroomContainers";
-import Footer from "../Footer";
-import styled from "styled-components";
-import {
-  RalewayNormalCapeCod32px,
-  RalewayNormalCapeCod100px,
-  RalewayNormalBlack22px,
-  ValignTextMiddle,
-} from "../../styledMixins";
+import ClassroomContainers2 from "../ClassroomContainers2";
+import XFooter from "../XFooter";
 import "./Financer.css";
 
 function Financer(props) {
   const {
+    dashboardLayout,
+    hireMe,
+    github,
+    openSource,
+    organizations,
     letsDiscussYourPortfolio,
     planner,
     bookAnAppointment,
+    overlapGroup3,
+    bot,
     decentralizedFinances,
     spanText1,
     spanText2,
     spanText3,
     spanText4,
     spanText5,
-    navbarProps,
     heroInfoProps,
-    botsProps,
+    classroomContainers2Props,
     footerProps,
   } = props;
 
   return (
     <div className="financer screen">
-      <Body>
-        <FlexCol>
-          <Navbar
-            dashboardLayout={navbarProps.dashboardLayout}
-            hireMe={navbarProps.hireMe}
-            github={navbarProps.github}
-            openSource={navbarProps.openSource}
-            organizations={navbarProps.organizations}
-            heroButton1={navbarProps.heroButton1}
-            heroButton2={navbarProps.heroButton2}
-          />
-          <Hero>
-            <OverlapGroup5>
-              <Componentlottiehttpsassets4lottiefi
+      <div className="body-34">
+        <div className="flex-col-25">
+          <div className="navbar-26 raleway-bold-cape-cod-20px">
+            <img className="dashboard-layout-25" src={dashboardLayout} alt="Dashboard Layout" />
+            <div className="hire-me-60">{hireMe}</div>
+            <div className="github-47">{github}</div>
+            <div className="open-source-59">{openSource}</div>
+            <div className="organizations-49">{organizations}</div>
+            <ButtonLogin />
+            <ButtonWallet />
+          </div>
+          <div className="hero-30">
+            <div className="overlap-group5-17">
+              <img
+                className="componentlottiehttps-4"
                 src="/img/-component-lottie-https---assets4-lottiefiles-com-packages-lf20-@1x.svg"
                 alt="component:lottie:https://assets4.lottiefiles.com/packages/lf20_efx3aac9.json]"
               />
@@ -54,185 +54,56 @@ function Financer(props) {
                 spanText2={heroInfoProps.spanText2}
                 spanText3={heroInfoProps.spanText3}
                 name={heroInfoProps.name}
+                className={heroInfoProps.className}
                 buttonProps={heroInfoProps.buttonProps}
               />
-            </OverlapGroup5>
-          </Hero>
-          <Consultations>
-            <CollaborateContainer>
-              <CollaborateImg src="/img/-collaborate-img@1x.svg" alt="collaborate-img" />
-              <CollaborateText>
-                <LetsDiscussYourPortfolio>{letsDiscussYourPortfolio}</LetsDiscussYourPortfolio>
-                <Appointments>
-                  <Planner src={planner} alt="Planner" />
-                  <BookAnAppointment>{bookAnAppointment}</BookAnAppointment>
-                </Appointments>
-              </CollaborateText>
-            </CollaborateContainer>
-          </Consultations>
-          <Bots overlapGroup3={botsProps.overlapGroup3} bot={botsProps.bot} />
-          <ManagementSteps>
-            <DecentralizedFinances>{decentralizedFinances}</DecentralizedFinances>
-            <BuildingAInvestmen>
+            </div>
+          </div>
+          <div className="consultations">
+            <div className="collaborate-container">
+              <img className="collaborate-img-1" src="/img/-collaborate-img@1x.svg" alt="collaborate-img" />
+              <div className="collaborate-text">
+                <div className="lets-discuss-your-portfolio valign-text-middle raleway-normal-cape-cod-100px">
+                  {letsDiscussYourPortfolio}
+                </div>
+                <div className="appointments">
+                  <img className="planner" src={planner} alt="Planner" />
+                  <div className="book-an-appointment valign-text-middle raleway-normal-cape-cod-32px">
+                    {bookAnAppointment}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bots">
+            <div className="overlap-group3-14" style={{ backgroundImage: `url(${overlapGroup3})` }}>
+              <img className="bot" src={bot} alt="Bot" />
+            </div>
+          </div>
+          <div className="management-steps">
+            <div className="decentralized-finances valign-text-middle raleway-normal-cape-cod-100px">
+              {decentralizedFinances}
+            </div>
+            <p className="building-a-investmen valign-text-middle raleway-normal-black-22px">
               <span>
                 <span className="raleway-normal-black-22px">{spanText1}</span>
-                <Span1>{spanText2}</Span1>
+                <span className="span-21 raleway-normal-black-22px">{spanText2}</span>
                 <span className="raleway-normal-black-22px">{spanText3}</span>
-                <Span1>{spanText4}</Span1>
+                <span className="span-21 raleway-normal-black-22px">{spanText4}</span>
                 <span className="raleway-normal-black-22px">{spanText5}</span>
               </span>
-            </BuildingAInvestmen>
-            <ClassroomContainers />
-          </ManagementSteps>
-          <Footer {...footerProps} />
-        </FlexCol>
-      </Body>
+            </p>
+            <ClassroomContainers2 {...classroomContainers2Props} />
+          </div>
+          <XFooter
+            image8={footerProps.image8}
+            className={footerProps.className}
+            footerMenuProps={footerProps.footerMenuProps}
+          />
+        </div>
+      </div>
     </div>
   );
 }
-
-const Body = styled.div`
-  min-width: 1512px;
-  height: 4674px;
-  background-color: var(--material-themereferrorerror100);
-  border: 1px none;
-`;
-
-const FlexCol = styled.div`
-  position: relative;
-  width: 1512px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  min-height: 4674px;
-`;
-
-const Hero = styled.div`
-  width: 1512px;
-  height: 879px;
-  display: flex;
-  padding: 0 79px;
-  align-items: flex-start;
-  background-color: var(--material-themereferrorerror100);
-  border: 1px none;
-`;
-
-const OverlapGroup5 = styled.div`
-  width: 1339px;
-  height: 706px;
-  position: relative;
-`;
-
-const Componentlottiehttpsassets4lottiefi = styled.img`
-  position: absolute;
-  width: 809px;
-  height: 706px;
-  top: 0;
-  left: 530px;
-`;
-
-const Consultations = styled.div`
-  width: 1512px;
-  height: 982px;
-  display: flex;
-  align-items: flex-start;
-  background-color: var(--material-themereferrorerror100);
-  border: 1px none;
-`;
-
-const CollaborateContainer = styled.div`
-  width: 1481px;
-  height: 833px;
-  position: relative;
-  margin-left: 31px;
-`;
-
-const CollaborateImg = styled.img`
-  position: absolute;
-  width: 920px;
-  height: 833px;
-  top: 0;
-  left: 561px;
-`;
-
-const CollaborateText = styled.div`
-  position: absolute;
-  width: 781px;
-  top: 145px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  min-height: 480px;
-  gap: 6px;
-`;
-
-const LetsDiscussYourPortfolio = styled.div`
-  ${ValignTextMiddle}
-  ${RalewayNormalCapeCod100px}
-            width: 779px;
-  height: 378px;
-  margin-right: 2px;
-  text-align: center;
-  letter-spacing: 0;
-`;
-
-const Appointments = styled.div`
-  display: flex;
-  align-items: center;
-  min-width: 457px;
-`;
-
-const Planner = styled.img`
-  width: 96px;
-  height: 96px;
-`;
-
-const BookAnAppointment = styled.div`
-  ${ValignTextMiddle}
-  ${RalewayNormalCapeCod32px}
-            width: 359px;
-  height: 51px;
-  margin-top: 1px;
-  text-align: center;
-  letter-spacing: 0;
-`;
-
-const ManagementSteps = styled.div`
-  width: 1512px;
-  height: 1083px;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  padding: 92px 61px;
-  align-items: center;
-  background-color: var(--material-themereferrorerror100);
-  border: 1px none;
-`;
-
-const DecentralizedFinances = styled.div`
-  ${ValignTextMiddle}
-  ${RalewayNormalCapeCod100px}
-            height: 117px;
-  margin-right: 1px;
-  min-width: 1081px;
-  text-align: center;
-  letter-spacing: 0;
-`;
-
-const BuildingAInvestmen = styled.div`
-  ${ValignTextMiddle}
-  ${RalewayNormalBlack22px}
-            width: 1269px;
-  height: 104px;
-  margin-right: 1px;
-  text-align: center;
-  letter-spacing: 0;
-`;
-
-const Span1 = styled.span`
-  ${RalewayNormalBlack22px}
-  text-decoration: underline;
-`;
 
 export default Financer;

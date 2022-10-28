@@ -1,0 +1,11 @@
+.blockchain-14,
+.blockchain-15 {
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  height: 610px;
+  margin-top: 2px;
+  position: relative;
+  width: 1440px;
+}
+

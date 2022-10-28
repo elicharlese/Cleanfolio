@@ -1,4 +1,5 @@
-:root {
+:root { 
+  --alto: #d9d9d9;
   --anzac: #deba4e;
   --anzac-2: #deba4e1a;
   --cape-cod: #414141;
@@ -7,12 +8,8 @@
   --cherry-pie: #22005b;
   --dairy-cream: #fee3bb;
   --dairy-cream-2: #fee3bb4c;
-  --dark-blue: #3d00c1;
-  --de-york: #7fb684;
   --fern: #77b67e;
   --fern-2: #77b67e1a;
-  --gallery: #edebf0;
-  --gallery-2: #ecebef;
   --gravel: #42444b;
   --mandy: #de4e56;
   --mandy-2: #de4e561a;
@@ -51,8 +48,8 @@
   --portage: #839feb;
   --portage-2: #839feb1a;
   --purple-heart: #5530fd;
-  --purple-heart-2: #5321ca;
-  --purple-heart-3: #5530fd1a;
+  --purple-heart-2: #5530fd1a;
+  --purple-heart-3: #5321ca;
   --seagull: #7dbee3;
   --seagull-2: #7dbee31a;
   --turquoise-blue: #6ef9f5;
@@ -60,23 +57,473 @@
   --white: #ffffff4c;
   --yellow-sunshine: #fcf500;
   --yellow-sunshine-2: #fcf5001a;
-
+ 
   --font-size-l: 26px;
   --font-size-m: 22px;
   --font-size-s: 20px;
   --font-size-xl: 32px;
   --font-size-xs: 16px;
   --font-size-xxl: 36px;
-  --font-size-xxxl: 54px;
-
-  --font-family-encode_sans-bold: "Encode Sans-Bold", Helvetica;
+  --font-size-xxxl: 100px;
+ 
   --font-family-encode_sans-regular: "Encode Sans-Regular", Helvetica;
   --font-family-encode_sans-semibold: "Encode Sans-SemiBold", Helvetica;
-  --font-family-inter-bold: "Inter-Bold", Helvetica;
-  --font-family-inter-regular: "Inter-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
   --font-family-poppins-bold: "Poppins-Bold", Helvetica;
   --font-family-poppins-medium: "Poppins-Medium", Helvetica;
   --font-family-poppins-regular: "Poppins-Regular", Helvetica;
   --font-family-poppins-semibold: "Poppins-SemiBold", Helvetica;
   --font-family-raleway: "Raleway", Helvetica;
+}
+.raleway-bold-cape-cod-16px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cape-cod-20px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-normal-cape-cod-22px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-bold-white-26px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-normal-cape-cod-16px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-bold-white-36px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cape-cod-22px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cape-cod-32px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cape-cod-36px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-22px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-20px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-normal-cape-cod-100px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-cape-cod-22px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-cape-cod-22px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-normal-cape-cod-54px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-bold-white-16px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-24px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-32px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-seagull-20px {
+  color: var(--seagull);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-seagull-22px {
+  color: var(--seagull);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-22px-2 {
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cape-cod-64px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-paris-m-12px {
+  color: var(--paris-m);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-normal-cape-cod-26px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-bold-white-100px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-white-54px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-raleway);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-normal-cape-cod-66px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-normal-white-100px {
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-normal-cape-cod-80px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-regular-normal-mountain-mist-12px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-poppins-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-regular-normal-mountain-mist-13px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-poppins-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-regular-normal-white-12px {
+  color: var(--material-themereferrorerror100);
+  font-family: var(--font-family-poppins-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-cape-cod-32px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-normal-black-22px {
+  color: var(--material-themereferrorerror0);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-normal-cape-cod-64px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-medium-purple-heart-15px {
+  color: var(--purple-heart-3);
+  font-family: var(--font-family-poppins-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-regular-normal-mountain-mist-13px-2 {
+  color: var(--mountain-mist-2);
+  font-family: var(--font-family-poppins-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-medium-mountain-mist-13px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-poppins-medium);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-cherry-pie-17px {
+  color: var(--cherry-pie);
+  font-family: var(--font-family-poppins-medium);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.raleway-bold-white-16px-2 {
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-seagull-16px {
+  color: var(--seagull);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-semi-bold-cherry-pie-28px {
+  color: var(--cherry-pie);
+  font-family: var(--font-family-poppins-semibold);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-mountain-mist-13px-2 {
+  color: var(--mountain-mist-2);
+  font-family: var(--font-family-poppins-medium);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.encodesans-regular-normal-mountain-mist-13px {
+  color: var(--mountain-mist-2);
+  font-family: var(--font-family-encode_sans-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.encodesans-semi-bold-gravel-17px {
+  color: var(--gravel);
+  font-family: var(--font-family-encode_sans-semibold);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.raleway-normal-cape-cod-32px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.raleway-bold-mexican-red-32px {
+  color: var(--mexican-red);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-mandy-32px {
+  color: var(--mandy);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-seagull-32px {
+  color: var(--seagull);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-anzac-32px {
+  color: var(--anzac);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-dairy-cream-32px {
+  color: var(--dairy-cream);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-cararra-32px {
+  color: var(--cararra);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-yellow-sunshine-32px {
+  color: var(--yellow-sunshine);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-portage-32px {
+  color: var(--portage);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-purple-heart-32px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-orchid-32px {
+  color: var(--orchid);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.raleway-bold-turquoise-blue-32px {
+  color: var(--turquoise-blue);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
 }

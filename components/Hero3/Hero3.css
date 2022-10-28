@@ -1,0 +1,23 @@
+.hero-14 {
+  align-items: flex-start;
+  background-color: var(--material-themereferrorerror100);
+  border: 1px none;
+  display: flex;
+  padding: 0 79px;
+  width: 1512px;
+}
+
+.overlap-group5-14 {
+  height: 963px;
+  position: relative;
+  width: 945px;
+}
+
+.frame-16 {
+  height: 963px;
+  left: 216px;
+  position: absolute;
+  top: 0;
+  width: 729px;
+}
+

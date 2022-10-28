@@ -1,0 +1,59 @@
+.hero-info-2,
+.hero-info-2.hero-info {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 67px;
+  left: 0;
+  min-height: 355px;
+  position: absolute;
+  top: 148px;
+  width: 669px;
+}
+
+.overlap-group-2 {
+  height: 229px;
+  margin-top: -1px;
+  position: relative;
+  width: 669px;
+}
+
+.an-e-commerce-and-fu-1 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 134px;
+  width: 668px;
+}
+
+.name-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 669px;
+}
+
+.hero-info-2.hero-info-3 {
+  top: 0;
+}
+
+.hero-info-2.hero-info-5 {
+  left: 42px;
+  top: 0;
+}
+
+.hero-info-2.hero-info-1,
+.hero-info-2.hero-info-7,
+.hero-info-2.hero-info-8 {
+  top: 225px;
+}
+
+.hero-info-2.hero-info-6 {
+  left: 50px;
+  top: 0;
+}
+
