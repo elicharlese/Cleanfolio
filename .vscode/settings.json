@@ -8,5 +8,7 @@
     "themeread",
     "Tradent"
   ],
-  "python.pythonPath": "C:\\Users\\elich\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+  "python.pythonPath": "C:\\Users\\elich\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true
 }
