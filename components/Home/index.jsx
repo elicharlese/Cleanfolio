@@ -18,7 +18,7 @@ import {
   RalewayBoldCapeCod32px,
   RalewayBoldWhite16px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./Home.css";
 
 function Home(props) {

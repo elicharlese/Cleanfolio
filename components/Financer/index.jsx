@@ -10,7 +10,7 @@ import {
   RalewayNormalCapeCod100px,
   RalewayNormalBlack22px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./Financer.css";
 
 function Financer(props) {

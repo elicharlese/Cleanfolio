@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayBoldMexicanRed32px } from "../../../styledMixins";
+import { RalewayBoldMexicanRed32px } from "../../styledMixins";
 
 
 function Button2(props) {

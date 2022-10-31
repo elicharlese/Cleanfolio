@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { PoppinsMediumMountainMist13px } from "../../../styledMixins";
+import { PoppinsMediumMountainMist13px } from "../../styledMixins";
 
 
 function TimeFrame() {

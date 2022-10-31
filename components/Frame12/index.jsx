@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { PoppinsRegularNormalWhite12px } from "../../../styledMixins";
+import { PoppinsRegularNormalWhite12px } from "../../styledMixins";
 
 
 function Frame12(props) {

@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { PoppinsRegularNormalMountainMist12p } from "../../../styledMixins";
+import { PoppinsRegularNormalMountainMist12p } from "../../styledMixins";
 
 
 function Group23(props) {

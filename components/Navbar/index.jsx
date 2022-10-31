@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayBoldWhite26px, RalewayBoldCapeCod20px } from "../../../styledMixins";
+import { RalewayBoldWhite26px, RalewayBoldCapeCod20px } from "../../styledMixins";
 
 
 function Navbar(props) {

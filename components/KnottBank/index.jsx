@@ -14,7 +14,7 @@ import {
   RalewayBoldWhite32px,
   RalewayNormalCapeCod26px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./KnottBank.css";
 
 function KnottBank(props) {

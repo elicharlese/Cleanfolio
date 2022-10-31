@@ -12,7 +12,7 @@ import {
   RalewayBoldWhite32px,
   RalewayNormalCapeCod26px,
   ValignTextMiddle,
-} from "../../../styledMixins";
+} from "../../styledMixins";
 import "./TDT.css";
 
 function TDT(props) {

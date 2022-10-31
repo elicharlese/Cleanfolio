@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { RalewayBoldCapeCod20px } from "../../../styledMixins";
+import { RalewayBoldCapeCod20px } from "../../styledMixins";
 
 
 function FooterMenu(props) {
