@@ -10,5 +10,6 @@
   ],
   "python.pythonPath": "C:\\Users\\elich\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
   "editor.tabCompletion": "on",
-  "diffEditor.codeLens": true
+  "diffEditor.codeLens": true,
+  "cosmywasmy.chainConfigName": "Juno UNI-3"
 }

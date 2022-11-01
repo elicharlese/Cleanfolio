@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar7 from "../Navbar7";
+// import Navbar7 from "../Navbar7";
 import Button23 from "../Button23";
 import Products from "../Products";
 import Tools from "../Tools";
