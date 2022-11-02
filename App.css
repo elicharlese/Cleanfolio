@@ -1,2 +1,6 @@
 /* media @media screen (max-width: 600px ) {
+    .navbar {
+        display: none;
+    }
+    // TODO: Add the navbar flexibility
 } */
