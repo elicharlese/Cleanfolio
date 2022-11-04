@@ -10,3 +10,8 @@ contract mintTokens {
         return true;
     }
 }
+
+contract authenticateUser {
+    // var user = uint256;
+
+}
