@@ -1,6 +1,18 @@
-media @media screen (max-width: 600px ) {
+/* ============================ Tablet Breakpoint ============================ */
+@media screen (max-width: 600px ) {
     .navbar {
         display: none;
     }
-    /* TODO: Add a variation of the navbar */
+    .text {
+        display: none;
+    }
+}
+/* ============================ Phone Breakpoint ============================ */
+@media screen and (max-width: 300px) {
+   .navbar {
+        display: none;
+    }
+   .text {
+        display: none;
+    }
 }
