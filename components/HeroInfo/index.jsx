@@ -1,5 +1,5 @@
 import React from "react";
-import XButton from "../XButton";
+import Button from "../Button";
 import "./HeroInfo.css";
 
 function HeroInfo(props) {
