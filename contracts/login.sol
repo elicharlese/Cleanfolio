@@ -1,5 +1,5 @@
-pragma solidity 0.8.17;
 // "SPDX-License-Identifier: <SPDX-License>"
+pragma solidity 0.8.17;
 
 contract login {
     function getWalletAddress() public pure returns (uint) {
