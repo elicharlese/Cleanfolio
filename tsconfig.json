@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -21,9 +25,18 @@
     ],
     "baseUrl": "../cleanfolio",
     "paths": {
-      "turbo/*": ["../cleanfolio/src/*"]
+      "turbo/*": [
+        "../cleanfolio/src/*"
+      ]
     }
   },
-  "include": ["../cleanfolio/next-env.d.ts", "../cleanfolio/**/*.ts", "../cleanfolio/**/*.tsx", "../cleanfolio/.next/types/**/*.ts"],
-  "exclude": ["../cleanfolio/node_modules"]
+  "include": [
+    "../cleanfolio/next-env.d.ts",
+    "../cleanfolio/**/*.ts",
+    "../cleanfolio/**/*.tsx",
+    "../cleanfolio/.next/types/**/*.ts"
+  ],
+  "exclude": [
+    "../cleanfolio/node_modules"
+  ]
 }
