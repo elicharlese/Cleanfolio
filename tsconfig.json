@@ -1,42 +1,34 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
-    "esModuleInterop": true,
-    "module": "esnext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "jsx": "preserve",
-    "incremental": true,
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ],
-    "baseUrl": "../cleanfolio",
-    "paths": {
-      "turbo/*": [
-        "../cleanfolio/src/*"
-      ]
-    }
-  },
-  "include": [
-    "../cleanfolio/next-env.d.ts",
-    "../cleanfolio/**/*.ts",
-    "../cleanfolio/**/*.tsx",
-    "../cleanfolio/.next/types/**/*.ts"
-  ],
-  "exclude": [
-    "../cleanfolio/node_modules"
-  ]
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"plugins": [
+			{
+				"name": "next"
+			}
+		],
+		"baseUrl": "../cleanfolio",
+		"paths": {
+			"turbo/*": ["../cleanfolio/src/*"]
+		}
+	},
+	"include": [
+		"../cleanfolio/next-env.d.ts",
+		"../cleanfolio/**/*.ts",
+		"../cleanfolio/**/*.tsx",
+		"../cleanfolio/.next/types/**/*.ts"
+	],
+	"exclude": ["../cleanfolio/node_modules"]
 }
