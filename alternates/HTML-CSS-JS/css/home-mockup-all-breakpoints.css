@@ -9782,72 +9782,72 @@
   width: 60px;
 }
 @media screen and (max-width: 767px) {
-  .screen.home-mockup-all-breakpoints { 
+  .screen.home-mockup-all-breakpoints {
     display: none;
    }
-  .screen.generic-desktop { 
+  .screen.generic-desktop {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-portrait { 
+  .screen.ipad-mini-ipad-9-7-portrait {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-landsape { 
+  .screen.ipad-mini-ipad-9-7-landsape {
     display: none;
    }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .screen.home-mockup-all-breakpoints { 
+  .screen.home-mockup-all-breakpoints {
     display: none;
    }
-  .screen.iphone-12-pro-max { 
+  .screen.iphone-12-pro-max {
     display: none;
    }
-  .screen.generic-desktop { 
+  .screen.generic-desktop {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-landsape { 
+  .screen.ipad-mini-ipad-9-7-landsape {
     display: none;
    }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
-  .screen.home-mockup-all-breakpoints { 
+  .screen.home-mockup-all-breakpoints {
     display: none;
    }
-  .screen.iphone-12-pro-max { 
+  .screen.iphone-12-pro-max {
     display: none;
    }
-  .screen.generic-desktop { 
+  .screen.generic-desktop {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-portrait { 
+  .screen.ipad-mini-ipad-9-7-portrait {
     display: none;
    }
 }
 @media screen and (min-width: 1440px) and (max-width: 1511px) {
-  .screen.home-mockup-all-breakpoints { 
+  .screen.home-mockup-all-breakpoints {
     display: none;
    }
-  .screen.iphone-12-pro-max { 
+  .screen.iphone-12-pro-max {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-portrait { 
+  .screen.ipad-mini-ipad-9-7-portrait {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-landsape { 
+  .screen.ipad-mini-ipad-9-7-landsape {
     display: none;
    }
 }
 @media screen and (min-width: 1512px) {
-  .screen.iphone-12-pro-max { 
+  .screen.iphone-12-pro-max {
     display: none;
    }
-  .screen.generic-desktop { 
+  .screen.generic-desktop {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-portrait { 
+  .screen.ipad-mini-ipad-9-7-portrait {
     display: none;
    }
-  .screen.ipad-mini-ipad-9-7-landsape { 
+  .screen.ipad-mini-ipad-9-7-landsape {
     display: none;
    }
 }
