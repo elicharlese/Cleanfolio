@@ -8,3 +8,80 @@ export default function Head() {
     </>
   )
 }
+
+import { useState } from "react";
+import Link from "next/link";
+
+type NavbarProps = {
+  isDarkMode: boolean;
+  onToggleDarkMode: () => void;
+};
+
+const Navbar = ({ isDarkMode, onToggleDarkMode }: NavbarProps) => {
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const [isNotificationsOpen, setIsNotificationsOpen] = useState(false);
+
+  const handleToggleSearch = () => setIsSearchOpen(!isSearchOpen);
+
+  const handleToggleNotifications = () =>
+    setIsNotificationsOpen(!isNotificationsOpen);
+
+  return (
+    <nav>
+      <ul>
+        <li>
+          <Link href="/">
+            <a>Home</a>
+          </Link>
+        </li>
+        <li>
+          <button onClick={handleToggleSearch}>Search</button>
+          {isSearchOpen && (
+            <div>
+              <input type="text" placeholder="Search..." />
+            </div>
+          )}
+        </li>
+        <li>
+          <button onClick={handleToggleNotifications}>Notifications</button>
+          {isNotificationsOpen && (
+            <div>
+              <p>You have no notifications.</p>
+            </div>
+          )}
+        </li>
+        <li>
+          <button onClick={onToggleDarkMode}>
+            {isDarkMode ? "Light Mode" : "Dark Mode"}
+          </button>
+        </li>
+      </ul>
+    </nav>
+  );
+};
+
+export default Navbar;
+
+import { useState } from "react";
+import Navbar from "../components/Navbar";
+
+type LayoutProps = {
+  children: React.ReactNode;
+};
+
+const Layout = ({ children }: LayoutProps) => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  const handleToggleDarkMode = () => setIsDarkMode(!isDarkMode);
+
+  return (
+    <>
+      <Navbar isDarkMode={isDarkMode} onToggleDarkMode={handleToggleDarkMode} />
+      <main>{children}</main>
+    </>
+  );
+};
+
+export default Layout;
+
+
