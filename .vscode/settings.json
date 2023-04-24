@@ -1,15 +1,10 @@
 {
-  "editor.formatOnPaste": true,
-  "editor.formatOnType": true,
-  "workbench.colorTheme": "monokai-charcoal (green)",
-  "cSpell.words": [
-    "Behance",
-    "Cleanfolio",
-    "themeread",
-    "Tradent"
-  ],
-  "python.pythonPath": "C:\\Users\\elich\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
-  "editor.tabCompletion": "on",
-  "diffEditor.codeLens": true,
-  "cosmywasmy.chainConfigName": "Juno UNI-3"
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"workbench.colorTheme": "Monokai Pro",
+	"cSpell.words": ["Behance", "Cleanfolio", "themeread", "Tradent"],
+	"python.pythonPath": "C:\\Users\\elich\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+	"editor.tabCompletion": "on",
+	"diffEditor.codeLens": true,
+	"cosmywasmy.chainConfigName": "Juno UNI-3"
 }
