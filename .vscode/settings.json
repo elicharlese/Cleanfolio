@@ -1,7 +1,7 @@
 {
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
-  "workbench.colorTheme": "Monokai Pro",
+  "workbench.colorTheme": "monokai-charcoal (green)",
   "cSpell.words": [
     "Behance",
     "Cleanfolio",
