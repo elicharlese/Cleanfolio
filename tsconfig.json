@@ -19,11 +19,11 @@
         "name": "next"
       }
     ],
-    "baseUrl": "../cleanfolio",
+    "baseUrl": ".",
     "paths": {
-      "turbo/*": ["../cleanfolio/src/*"]
+      "turbo/*": ["./src/*"]
     }
   },
-  "include": ["../cleanfolio/next-env.d.ts", "../cleanfolio/**/*.ts", "../cleanfolio/**/*.tsx", "../cleanfolio/.next/types/**/*.ts"],
-  "exclude": ["../cleanfolio/node_modules"]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
 }
