@@ -1,4 +1,4 @@
-# ⚛️ Cleanfolio
+# ⚛️ OMNI
 
 ## 🗲 Framer
 ### Beta to Alpha Version
@@ -8,6 +8,7 @@
 - [ ] Dark Theme
 
 ### Upcoming Features
+LLM-Notes (A Global Dendron)
 
 ## Versions
 
