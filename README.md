@@ -2,6 +2,8 @@
 
 Welcome to OMNI, where reality, augmented reality, and the metaverse converge to create a groundbreaking shared media-verse experience. Explore a new dimension of social interaction and creative expression with our immersive platform.
 
+[OMNI](https://omni.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
+
 ## Features
 
 - **Shared Reality Streaming:** Share real-life experiences in real-time with friends and followers.
